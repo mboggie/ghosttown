@@ -1,0 +1,81 @@
+
+@font-face {
+  font-family: "Sackers";
+  src: url("fonts/font.woff") format("woff"),
+       url("fonts/font.woff2") format("woff2");
+}
+
+body, html {
+	background-color: #000000;
+	color:#ffffff;
+	font-family: 'EB Garamond';
+	font-weight: 400;
+	background: url("img/bg.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+@media only screen and (min-width: 601px) {
+	body {
+		font-size: 24px;
+		line-height: 1.4em;
+	}
+}
+@media only screen and (max-width: 600px) {
+	body {
+		font-size: 18px;
+		line-height: 1.4em;
+	}
+}
+#title {
+	color: #ffffff;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	margin-left: 15px;
+	margin-right: 15px;
+	text-transform: uppercase;
+	font-family: 'Sackers';
+	letter-spacing: .3em;
+	line-height: 1.6em;
+	border-bottom:0.5px solid #666666;
+}
+#insultWrapper {
+	position: fixed;
+    top: 40%;
+    transform: translateY(-50%);
+}
+#insultDisplay {
+	text-align: center;
+	line-height: 140%;
+}
+@media only screen and (min-width: 601px) {
+	#insultWrapper {
+		width:50%;
+		left:50%;
+		transform: translateX(-50%);
+	}
+	#insultDisplay {
+		font-size: 1.7em;
+	}
+}
+@media only screen and (max-width: 600px) {
+	#insultWrapper {
+		width:80%;
+		left:20%;
+		transform: translateX(-10%);
+	}
+	#insultDisplay {
+		font-size: 1.7em;
+	}
+}
+#refresh {
+	text-align: center;
+	margin: auto;
+	padding:20px;
+}
+#refresh img {
+	width: 80px;
+	height:80px;
+}
