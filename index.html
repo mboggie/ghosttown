@@ -10,22 +10,44 @@
 	<meta property="og:title" content="Covid, USA" />
 	<meta property="og:description" content="If COVID-19 had struck all in just one American city, which would have disappeared?" />
 	<meta property="og:image" content="" />
+
 	<script type="text/javascript">
 
 		function loadCity() {
-			let deaths = 0;
-			window.fetch('https://api.covid19api.com/summary', {headers:{'Content-Type': 'application/json'}})
+			let cities = [];
+			let ghosttown = "";
+			let rank = 0;
+			let pop = 0;
+			window.fetch('cities.json')
 			.then(response => response.json())
-			.then(function(json){
-				c = json["Countries"];
-				c.forEach(function(country){
-					if(country.CountryCode == "US"){
-						deaths = country.TotalDeaths;
-					}
+			.then(function(data){cities = data;
+				console.log(cities);
+				let deaths = 0;
+				window.fetch('https://api.covid19api.com/summary', {headers:{'Content-Type': 'application/json'}})
+				.then(response => response.json())
+				.then(function(json){
+					c = json["Countries"];
+					c.forEach(function(country){
+						if(country.CountryCode == "US"){
+							deaths = country.TotalDeaths;
+						}
+					});
+					for (i=2; i < cities.length; i++){
+						if ((cities[i].pop < deaths) && rank == 0){
+							rank = cities[i].number;
+							ghosttown = cities[i].city;
+							pop = cities[i].pop;
+							st = cities[i].state;
+						};
+					};
+					console.log(deaths);
+					document.getElementById("number").innerHTML = deaths;
+					document.getElementById("town").innerHTML = ghosttown;
+					document.getElementById("st").innerHTML = st;
+					document.getElementById("rank").innerHTML = rank;
+					document.getElementById("population").innerHTML = pop;
 				});
-				console.log(deaths);
-				document.getElementById("number").innerHTML = deaths;
-			})
+			});
 		}
 	</script>
 	<link rel="stylesheet" type="text/css" href="reset.css">
@@ -34,7 +56,8 @@
 <body onload="loadCity();">
 		<h1 id="title">Covid Ghost Town</h1>
 		<div id="wrapper">
-			<div id="display">Since January X 2020, <span id="number">[ gathering data ]</span> Americans have died from Covid-19.</div>
+			<div id="display">Since January X 2020, <span id="number">[ gathering data ]</span> Americans have died from Covid-19. 
+				It's as though <span id="town">city</span>, <span id="st">st</span>, number <span id="rank">0</span> on the list of American cities, saw all <span id="population">0</span> people who live there disappear.</div>
 		</div>
 		<div id="footer"><a href="http://www.twitter.com/mattboggie">@mattboggie</a></div>
 </body>
