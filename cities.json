@@ -1,0 +1,7002 @@
+[
+  {
+    "number": 1,
+    "city": "New York",
+    "state": "New York",
+    "pop": 8405837,
+    "growth": "4.8%"
+  },
+  {
+    "number": 2,
+    "city": "Los Angeles",
+    "state": "California",
+    "pop": 3884307,
+    "growth": "4.8%"
+  },
+  {
+    "number": 3,
+    "city": "Chicago",
+    "state": "Illinois",
+    "pop": 2718782,
+    "growth": "-6.1%"
+  },
+  {
+    "number": 4,
+    "city": "Houston",
+    "state": "Texas",
+    "pop": 2195914,
+    "growth": "11.0%"
+  },
+  {
+    "number": 5,
+    "city": "Philadelphia",
+    "state": "Pennsylvania",
+    "pop": 1553165,
+    "growth": "2.6%"
+  },
+  {
+    "number": 6,
+    "city": "Phoenix",
+    "state": "Arizona",
+    "pop": 1513367,
+    "growth": "14.0%"
+  },
+  {
+    "number": 7,
+    "city": "San Antonio",
+    "state": "Texas",
+    "pop": 1409019,
+    "growth": "21.0%"
+  },
+  {
+    "number": 8,
+    "city": "San Diego",
+    "state": "California",
+    "pop": 1355896,
+    "growth": "10.5%"
+  },
+  {
+    "number": 9,
+    "city": "Dallas",
+    "state": "Texas",
+    "pop": 1257676,
+    "growth": "5.6%"
+  },
+  {
+    "number": 10,
+    "city": "San Jose",
+    "state": "California",
+    "pop": 998537,
+    "growth": "10.5%"
+  },
+  {
+    "number": 11,
+    "city": "Austin",
+    "state": "Texas",
+    "pop": 885400,
+    "growth": "31.7%"
+  },
+  {
+    "number": 12,
+    "city": "Indianapolis",
+    "state": "Indiana",
+    "pop": 843393,
+    "growth": "7.8%"
+  },
+  {
+    "number": 13,
+    "city": "Jacksonville",
+    "state": "Florida",
+    "pop": 842583,
+    "growth": "14.3%"
+  },
+  {
+    "number": 14,
+    "city": "San Francisco",
+    "state": "California",
+    "pop": 837442,
+    "growth": "7.7%"
+  },
+  {
+    "number": 15,
+    "city": "Columbus",
+    "state": "Ohio",
+    "pop": 822553,
+    "growth": "14.8%"
+  },
+  {
+    "number": 16,
+    "city": "Charlotte",
+    "state": "North Carolina",
+    "pop": 792862,
+    "growth": "39.1%"
+  },
+  {
+    "number": 17,
+    "city": "Fort Worth",
+    "state": "Texas",
+    "pop": 792727,
+    "growth": "45.1%"
+  },
+  {
+    "number": 18,
+    "city": "Detroit",
+    "state": "Michigan",
+    "pop": 688701,
+    "growth": "-27.1%"
+  },
+  {
+    "number": 19,
+    "city": "El Paso",
+    "state": "Texas",
+    "pop": 674433,
+    "growth": "19.4%"
+  },
+  {
+    "number": 20,
+    "city": "Memphis",
+    "state": "Tennessee",
+    "pop": 653450,
+    "growth": "-5.3%"
+  },
+  {
+    "number": 21,
+    "city": "Seattle",
+    "state": "Washington",
+    "pop": 652405,
+    "growth": "15.6%"
+  },
+  {
+    "number": 22,
+    "city": "Denver",
+    "state": "Colorado",
+    "pop": 649495,
+    "growth": "16.7%"
+  },
+  {
+    "number": 23,
+    "city": "Washington",
+    "state": "District of Columbia",
+    "pop": 646449,
+    "growth": "13.0%"
+  },
+  {
+    "number": 24,
+    "city": "Boston",
+    "state": "Massachusetts",
+    "pop": 645966,
+    "growth": "9.4%"
+  },
+  {
+    "number": 25,
+    "city": "Nashville-Davidson",
+    "state": "Tennessee",
+    "pop": 634464,
+    "growth": "16.2%"
+  },
+  {
+    "number": 26,
+    "city": "Baltimore",
+    "state": "Maryland",
+    "pop": 622104,
+    "growth": "-4.0%"
+  },
+  {
+    "number": 27,
+    "city": "Oklahoma City",
+    "state": "Oklahoma",
+    "pop": 610613,
+    "growth": "20.2%"
+  },
+  {
+    "number": 28,
+    "city": "Louisville/Jefferson County",
+    "state": "Kentucky",
+    "pop": 609893,
+    "growth": "10.0%"
+  },
+  {
+    "number": 29,
+    "city": "Portland",
+    "state": "Oregon",
+    "pop": 609456,
+    "growth": "15.0%"
+  },
+  {
+    "number": 30,
+    "city": "Las Vegas",
+    "state": "Nevada",
+    "pop": 603488,
+    "growth": "24.5%"
+  },
+  {
+    "number": 31,
+    "city": "Milwaukee",
+    "state": "Wisconsin",
+    "pop": 599164,
+    "growth": "0.3%"
+  },
+  {
+    "number": 32,
+    "city": "Albuquerque",
+    "state": "New Mexico",
+    "pop": 556495,
+    "growth": "23.5%"
+  },
+  {
+    "number": 33,
+    "city": "Tucson",
+    "state": "Arizona",
+    "pop": 526116,
+    "growth": "7.5%"
+  },
+  {
+    "number": 34,
+    "city": "Fresno",
+    "state": "California",
+    "pop": 509924,
+    "growth": "18.3%"
+  },
+  {
+    "number": 35,
+    "city": "Sacramento",
+    "state": "California",
+    "pop": 479686,
+    "growth": "17.2%"
+  },
+  {
+    "number": 36,
+    "city": "Long Beach",
+    "state": "California",
+    "pop": 469428,
+    "growth": "1.5%"
+  },
+  {
+    "number": 37,
+    "city": "Kansas City",
+    "state": "Missouri",
+    "pop": 467007,
+    "growth": "5.5%"
+  },
+  {
+    "number": 38,
+    "city": "Mesa",
+    "state": "Arizona",
+    "pop": 457587,
+    "growth": "13.5%"
+  },
+  {
+    "number": 39,
+    "city": "Virginia Beach",
+    "state": "Virginia",
+    "pop": 448479,
+    "growth": "5.1%"
+  },
+  {
+    "number": 40,
+    "city": "Atlanta",
+    "state": "Georgia",
+    "pop": 447841,
+    "growth": "6.2%"
+  },
+  {
+    "number": 41,
+    "city": "Colorado Springs",
+    "state": "Colorado",
+    "pop": 439886,
+    "growth": "21.4%"
+  },
+  {
+    "number": 42,
+    "city": "Omaha",
+    "state": "Nebraska",
+    "pop": 434353,
+    "growth": "5.9%"
+  },
+  {
+    "number": 43,
+    "city": "Raleigh",
+    "state": "North Carolina",
+    "pop": 431746,
+    "growth": "48.7%"
+  },
+  {
+    "number": 44,
+    "city": "Miami",
+    "state": "Florida",
+    "pop": 417650,
+    "growth": "14.9%"
+  },
+  {
+    "number": 45,
+    "city": "Oakland",
+    "state": "California",
+    "pop": 406253,
+    "growth": "1.3%"
+  },
+  {
+    "number": 46,
+    "city": "Minneapolis",
+    "state": "Minnesota",
+    "pop": 400070,
+    "growth": "4.5%"
+  },
+  {
+    "number": 47,
+    "city": "Tulsa",
+    "state": "Oklahoma",
+    "pop": 398121,
+    "growth": "1.3%"
+  },
+  {
+    "number": 48,
+    "city": "Cleveland",
+    "state": "Ohio",
+    "pop": 390113,
+    "growth": "-18.1%"
+  },
+  {
+    "number": 49,
+    "city": "Wichita",
+    "state": "Kansas",
+    "pop": 386552,
+    "growth": "9.7%"
+  },
+  {
+    "number": 50,
+    "city": "Arlington",
+    "state": "Texas",
+    "pop": 379577,
+    "growth": "13.3%"
+  },
+  {
+    "number": 51,
+    "city": "New Orleans",
+    "state": "Louisiana",
+    "pop": 378715,
+    "growth": "-21.6%"
+  },
+  {
+    "number": 52,
+    "city": "Bakersfield",
+    "state": "California",
+    "pop": 363630,
+    "growth": "48.4%"
+  },
+  {
+    "number": 53,
+    "city": "Tampa",
+    "state": "Florida",
+    "pop": 352957,
+    "growth": "16.0%"
+  },
+  {
+    "number": 54,
+    "city": "Honolulu",
+    "state": "Hawaii",
+    "pop": 347884,
+    "growth": "-6.2%"
+  },
+  {
+    "number": 55,
+    "city": "Aurora",
+    "state": "Colorado",
+    "pop": 345803,
+    "growth": "24.4%"
+  },
+  {
+    "number": 56,
+    "city": "Anaheim",
+    "state": "California",
+    "pop": 345012,
+    "growth": "4.7%"
+  },
+  {
+    "number": 57,
+    "city": "Santa Ana",
+    "state": "California",
+    "pop": 334227,
+    "growth": "-1.2%"
+  },
+  {
+    "number": 58,
+    "city": "St. Louis",
+    "state": "Missouri",
+    "pop": 318416,
+    "growth": "-8.2%"
+  },
+  {
+    "number": 59,
+    "city": "Riverside",
+    "state": "California",
+    "pop": 316619,
+    "growth": "22.5%"
+  },
+  {
+    "number": 60,
+    "city": "Corpus Christi",
+    "state": "Texas",
+    "pop": 316381,
+    "growth": "14.1%"
+  },
+  {
+    "number": 61,
+    "city": "Lexington-Fayette",
+    "state": "Kentucky",
+    "pop": 308428,
+    "growth": "18.0%"
+  },
+  {
+    "number": 62,
+    "city": "Pittsburgh",
+    "state": "Pennsylvania",
+    "pop": 305841,
+    "growth": "-8.3%"
+  },
+  {
+    "number": 63,
+    "city": "Anchorage",
+    "state": "Alaska",
+    "pop": 300950,
+    "growth": "15.4%"
+  },
+  {
+    "number": 64,
+    "city": "Stockton",
+    "state": "California",
+    "pop": 298118,
+    "growth": "21.8%"
+  },
+  {
+    "number": 65,
+    "city": "Cincinnati",
+    "state": "Ohio",
+    "pop": 297517,
+    "growth": "-10.1%"
+  },
+  {
+    "number": 66,
+    "city": "St. Paul",
+    "state": "Minnesota",
+    "pop": 294873,
+    "growth": "2.8%"
+  },
+  {
+    "number": 67,
+    "city": "Toledo",
+    "state": "Ohio",
+    "pop": 282313,
+    "growth": "-10.0%"
+  },
+  {
+    "number": 68,
+    "city": "Greensboro",
+    "state": "North Carolina",
+    "pop": 279639,
+    "growth": "22.3%"
+  },
+  {
+    "number": 69,
+    "city": "Newark",
+    "state": "New Jersey",
+    "pop": 278427,
+    "growth": "2.1%"
+  },
+  {
+    "number": 70,
+    "city": "Plano",
+    "state": "Texas",
+    "pop": 274409,
+    "growth": "22.4%"
+  },
+  {
+    "number": 71,
+    "city": "Henderson",
+    "state": "Nevada",
+    "pop": 270811,
+    "growth": "51.0%"
+  },
+  {
+    "number": 72,
+    "city": "Lincoln",
+    "state": "Nebraska",
+    "pop": 268738,
+    "growth": "18.0%"
+  },
+  {
+    "number": 73,
+    "city": "Buffalo",
+    "state": "New York",
+    "pop": 258959,
+    "growth": "-11.3%"
+  },
+  {
+    "number": 74,
+    "city": "Jersey City",
+    "state": "New Jersey",
+    "pop": 257342,
+    "growth": "7.2%"
+  },
+  {
+    "number": 75,
+    "city": "Chula Vista",
+    "state": "California",
+    "pop": 256780,
+    "growth": "46.2%"
+  },
+  {
+    "number": 76,
+    "city": "Fort Wayne",
+    "state": "Indiana",
+    "pop": 256496,
+    "growth": "1.0%"
+  },
+  {
+    "number": 77,
+    "city": "Orlando",
+    "state": "Florida",
+    "pop": 255483,
+    "growth": "31.2%"
+  },
+  {
+    "number": 78,
+    "city": "St. Petersburg",
+    "state": "Florida",
+    "pop": 249688,
+    "growth": "0.3%"
+  },
+  {
+    "number": 79,
+    "city": "Chandler",
+    "state": "Arizona",
+    "pop": 249146,
+    "growth": "38.7%"
+  },
+  {
+    "number": 80,
+    "city": "Laredo",
+    "state": "Texas",
+    "pop": 248142,
+    "growth": "38.2%"
+  },
+  {
+    "number": 81,
+    "city": "Norfolk",
+    "state": "Virginia",
+    "pop": 246139,
+    "growth": "5.0%"
+  },
+  {
+    "number": 82,
+    "city": "Durham",
+    "state": "North Carolina",
+    "pop": 245475,
+    "growth": "29.9%"
+  },
+  {
+    "number": 83,
+    "city": "Madison",
+    "state": "Wisconsin",
+    "pop": 243344,
+    "growth": "15.8%"
+  },
+  {
+    "number": 84,
+    "city": "Lubbock",
+    "state": "Texas",
+    "pop": 239538,
+    "growth": "19.6%"
+  },
+  {
+    "number": 85,
+    "city": "Irvine",
+    "state": "California",
+    "pop": 236716,
+    "growth": "61.3%"
+  },
+  {
+    "number": 86,
+    "city": "Winston-Salem",
+    "state": "North Carolina",
+    "pop": 236441,
+    "growth": "16.9%"
+  },
+  {
+    "number": 87,
+    "city": "Glendale",
+    "state": "Arizona",
+    "pop": 234632,
+    "growth": "5.7%"
+  },
+  {
+    "number": 88,
+    "city": "Garland",
+    "state": "Texas",
+    "pop": 234566,
+    "growth": "8.5%"
+  },
+  {
+    "number": 89,
+    "city": "Hialeah",
+    "state": "Florida",
+    "pop": 233394,
+    "growth": "3.2%"
+  },
+  {
+    "number": 90,
+    "city": "Reno",
+    "state": "Nevada",
+    "pop": 233294,
+    "growth": "26.8%"
+  },
+  {
+    "number": 91,
+    "city": "Chesapeake",
+    "state": "Virginia",
+    "pop": 230571,
+    "growth": "15.1%"
+  },
+  {
+    "number": 92,
+    "city": "Gilbert",
+    "state": "Arizona",
+    "pop": 229972,
+    "growth": "96.0%"
+  },
+  {
+    "number": 93,
+    "city": "Baton Rouge",
+    "state": "Louisiana",
+    "pop": 229426,
+    "growth": "0.4%"
+  },
+  {
+    "number": 94,
+    "city": "Irving",
+    "state": "Texas",
+    "pop": 228653,
+    "growth": "19.1%"
+  },
+  {
+    "number": 95,
+    "city": "Scottsdale",
+    "state": "Arizona",
+    "pop": 226918,
+    "growth": "11.0%"
+  },
+  {
+    "number": 96,
+    "city": "North Las Vegas",
+    "state": "Nevada",
+    "pop": 226877,
+    "growth": "92.2%"
+  },
+  {
+    "number": 97,
+    "city": "Fremont",
+    "state": "California",
+    "pop": 224922,
+    "growth": "10.0%"
+  },
+  {
+    "number": 98,
+    "city": "Boise City",
+    "state": "Idaho",
+    "pop": 214237,
+    "growth": "9.5%"
+  },
+  {
+    "number": 99,
+    "city": "Richmond",
+    "state": "Virginia",
+    "pop": 214114,
+    "growth": "8.2%"
+  },
+  {
+    "number": 100,
+    "city": "San Bernardino",
+    "state": "California",
+    "pop": 213708,
+    "growth": "13.0%"
+  },
+  {
+    "number": 101,
+    "city": "Birmingham",
+    "state": "Alabama",
+    "pop": 212113,
+    "growth": "-12.3%"
+  },
+  {
+    "number": 102,
+    "city": "Spokane",
+    "state": "Washington",
+    "pop": 210721,
+    "growth": "7.0%"
+  },
+  {
+    "number": 103,
+    "city": "Rochester",
+    "state": "New York",
+    "pop": 210358,
+    "growth": "-4.1%"
+  },
+  {
+    "number": 104,
+    "city": "Des Moines",
+    "state": "Iowa",
+    "pop": 207510,
+    "growth": "3.9%"
+  },
+  {
+    "number": 105,
+    "city": "Modesto",
+    "state": "California",
+    "pop": 204933,
+    "growth": "7.7%"
+  },
+  {
+    "number": 106,
+    "city": "Fayetteville",
+    "state": "North Carolina",
+    "pop": 204408,
+    "growth": "2.4%"
+  },
+  {
+    "number": 107,
+    "city": "Tacoma",
+    "state": "Washington",
+    "pop": 203446,
+    "growth": "4.9%"
+  },
+  {
+    "number": 108,
+    "city": "Oxnard",
+    "state": "California",
+    "pop": 203007,
+    "growth": "18.2%"
+  },
+  {
+    "number": 109,
+    "city": "Fontana",
+    "state": "California",
+    "pop": 203003,
+    "growth": "38.3%"
+  },
+  {
+    "number": 110,
+    "city": "Columbus",
+    "state": "Georgia",
+    "pop": 202824,
+    "growth": "8.7%"
+  },
+  {
+    "number": 111,
+    "city": "Montgomery",
+    "state": "Alabama",
+    "pop": 201332,
+    "growth": "-0.1%"
+  },
+  {
+    "number": 112,
+    "city": "Moreno Valley",
+    "state": "California",
+    "pop": 201175,
+    "growth": "40.4%"
+  },
+  {
+    "number": 113,
+    "city": "Shreveport",
+    "state": "Louisiana",
+    "pop": 200327,
+    "growth": "-0.1%"
+  },
+  {
+    "number": 114,
+    "city": "Aurora",
+    "state": "Illinois",
+    "pop": 199963,
+    "growth": "38.4%"
+  },
+  {
+    "number": 115,
+    "city": "Yonkers",
+    "state": "New York",
+    "pop": 199766,
+    "growth": "1.8%"
+  },
+  {
+    "number": 116,
+    "city": "Akron",
+    "state": "Ohio",
+    "pop": 198100,
+    "growth": "-8.6%"
+  },
+  {
+    "number": 117,
+    "city": "Huntington Beach",
+    "state": "California",
+    "pop": 197575,
+    "growth": "3.9%"
+  },
+  {
+    "number": 118,
+    "city": "Little Rock",
+    "state": "Arkansas",
+    "pop": 197357,
+    "growth": "7.6%"
+  },
+  {
+    "number": 119,
+    "city": "Augusta-Richmond County",
+    "state": "Georgia",
+    "pop": 197350,
+    "growth": "1.1%"
+  },
+  {
+    "number": 120,
+    "city": "Amarillo",
+    "state": "Texas",
+    "pop": 196429,
+    "growth": "12.8%"
+  },
+  {
+    "number": 121,
+    "city": "Glendale",
+    "state": "California",
+    "pop": 196021,
+    "growth": "0.3%"
+  },
+  {
+    "number": 122,
+    "city": "Mobile",
+    "state": "Alabama",
+    "pop": 194899,
+    "growth": "-1.9%"
+  },
+  {
+    "number": 123,
+    "city": "Grand Rapids",
+    "state": "Michigan",
+    "pop": 192294,
+    "growth": "-2.8%"
+  },
+  {
+    "number": 124,
+    "city": "Salt Lake City",
+    "state": "Utah",
+    "pop": 191180,
+    "growth": "5.1%"
+  },
+  {
+    "number": 125,
+    "city": "Tallahassee",
+    "state": "Florida",
+    "pop": 186411,
+    "growth": "21.8%"
+  },
+  {
+    "number": 126,
+    "city": "Huntsville",
+    "state": "Alabama",
+    "pop": 186254,
+    "growth": "16.3%"
+  },
+  {
+    "number": 127,
+    "city": "Grand Prairie",
+    "state": "Texas",
+    "pop": 183372,
+    "growth": "43.1%"
+  },
+  {
+    "number": 128,
+    "city": "Knoxville",
+    "state": "Tennessee",
+    "pop": 183270,
+    "growth": "3.9%"
+  },
+  {
+    "number": 129,
+    "city": "Worcester",
+    "state": "Massachusetts",
+    "pop": 182544,
+    "growth": "5.8%"
+  },
+  {
+    "number": 130,
+    "city": "Newport News",
+    "state": "Virginia",
+    "pop": 182020,
+    "growth": "0.9%"
+  },
+  {
+    "number": 131,
+    "city": "Brownsville",
+    "state": "Texas",
+    "pop": 181860,
+    "growth": "26.8%"
+  },
+  {
+    "number": 132,
+    "city": "Overland Park",
+    "state": "Kansas",
+    "pop": 181260,
+    "growth": "19.4%"
+  },
+  {
+    "number": 133,
+    "city": "Santa Clarita",
+    "state": "California",
+    "pop": 179590,
+    "growth": "15.3%"
+  },
+  {
+    "number": 134,
+    "city": "Providence",
+    "state": "Rhode Island",
+    "pop": 177994,
+    "growth": "2.3%"
+  },
+  {
+    "number": 135,
+    "city": "Garden Grove",
+    "state": "California",
+    "pop": 175140,
+    "growth": "5.8%"
+  },
+  {
+    "number": 136,
+    "city": "Chattanooga",
+    "state": "Tennessee",
+    "pop": 173366,
+    "growth": "10.5%"
+  },
+  {
+    "number": 137,
+    "city": "Oceanside",
+    "state": "California",
+    "pop": 172794,
+    "growth": "6.6%"
+  },
+  {
+    "number": 138,
+    "city": "Jackson",
+    "state": "Mississippi",
+    "pop": 172638,
+    "growth": "-6.8%"
+  },
+  {
+    "number": 139,
+    "city": "Fort Lauderdale",
+    "state": "Florida",
+    "pop": 172389,
+    "growth": "0.7%"
+  },
+  {
+    "number": 140,
+    "city": "Santa Rosa",
+    "state": "California",
+    "pop": 171990,
+    "growth": "15.2%"
+  },
+  {
+    "number": 141,
+    "city": "Rancho Cucamonga",
+    "state": "California",
+    "pop": 171386,
+    "growth": "32.7%"
+  },
+  {
+    "number": 142,
+    "city": "Port St. Lucie",
+    "state": "Florida",
+    "pop": 171016,
+    "growth": "91.7%"
+  },
+  {
+    "number": 143,
+    "city": "Tempe",
+    "state": "Arizona",
+    "pop": 168228,
+    "growth": "5.8%"
+  },
+  {
+    "number": 144,
+    "city": "Ontario",
+    "state": "California",
+    "pop": 167500,
+    "growth": "5.5%"
+  },
+  {
+    "number": 145,
+    "city": "Vancouver",
+    "state": "Washington",
+    "pop": 167405,
+    "growth": "14.2%"
+  },
+  {
+    "number": 146,
+    "city": "Cape Coral",
+    "state": "Florida",
+    "pop": 165831,
+    "growth": "60.4%"
+  },
+  {
+    "number": 147,
+    "city": "Sioux Falls",
+    "state": "South Dakota",
+    "pop": 164676,
+    "growth": "31.1%"
+  },
+  {
+    "number": 148,
+    "city": "Springfield",
+    "state": "Missouri",
+    "pop": 164122,
+    "growth": "7.8%"
+  },
+  {
+    "number": 149,
+    "city": "Peoria",
+    "state": "Arizona",
+    "pop": 162592,
+    "growth": "46.5%"
+  },
+  {
+    "number": 150,
+    "city": "Pembroke Pines",
+    "state": "Florida",
+    "pop": 162329,
+    "growth": "17.4%"
+  },
+  {
+    "number": 151,
+    "city": "Elk Grove",
+    "state": "California",
+    "pop": 161007,
+    "growth": "97.1%"
+  },
+  {
+    "number": 152,
+    "city": "Salem",
+    "state": "Oregon",
+    "pop": 160614,
+    "growth": "16.4%"
+  },
+  {
+    "number": 153,
+    "city": "Lancaster",
+    "state": "California",
+    "pop": 159523,
+    "growth": "33.8%"
+  },
+  {
+    "number": 154,
+    "city": "Corona",
+    "state": "California",
+    "pop": 159503,
+    "growth": "23.6%"
+  },
+  {
+    "number": 155,
+    "city": "Eugene",
+    "state": "Oregon",
+    "pop": 159190,
+    "growth": "14.4%"
+  },
+  {
+    "number": 156,
+    "city": "Palmdale",
+    "state": "California",
+    "pop": 157161,
+    "growth": "33.7%"
+  },
+  {
+    "number": 157,
+    "city": "Salinas",
+    "state": "California",
+    "pop": 155662,
+    "growth": "8.4%"
+  },
+  {
+    "number": 158,
+    "city": "Springfield",
+    "state": "Massachusetts",
+    "pop": 153703,
+    "growth": "1.1%"
+  },
+  {
+    "number": 159,
+    "city": "Pasadena",
+    "state": "Texas",
+    "pop": 152735,
+    "growth": "7.5%"
+  },
+  {
+    "number": 160,
+    "city": "Fort Collins",
+    "state": "Colorado",
+    "pop": 152061,
+    "growth": "26.6%"
+  },
+  {
+    "number": 161,
+    "city": "Hayward",
+    "state": "California",
+    "pop": 151574,
+    "growth": "7.5%"
+  },
+  {
+    "number": 162,
+    "city": "Pomona",
+    "state": "California",
+    "pop": 151348,
+    "growth": "2.1%"
+  },
+  {
+    "number": 163,
+    "city": "Cary",
+    "state": "North Carolina",
+    "pop": 151088,
+    "growth": "55.1%"
+  },
+  {
+    "number": 164,
+    "city": "Rockford",
+    "state": "Illinois",
+    "pop": 150251,
+    "growth": "-1.0%"
+  },
+  {
+    "number": 165,
+    "city": "Alexandria",
+    "state": "Virginia",
+    "pop": 148892,
+    "growth": "15.0%"
+  },
+  {
+    "number": 166,
+    "city": "Escondido",
+    "state": "California",
+    "pop": 148738,
+    "growth": "10.7%"
+  },
+  {
+    "number": 167,
+    "city": "McKinney",
+    "state": "Texas",
+    "pop": 148559,
+    "growth": "165.3%"
+  },
+  {
+    "number": 168,
+    "city": "Kansas City",
+    "state": "Kansas",
+    "pop": 148483,
+    "growth": "1.1%"
+  },
+  {
+    "number": 169,
+    "city": "Joliet",
+    "state": "Illinois",
+    "pop": 147806,
+    "growth": "36.5%"
+  },
+  {
+    "number": 170,
+    "city": "Sunnyvale",
+    "state": "California",
+    "pop": 147559,
+    "growth": "11.9%"
+  },
+  {
+    "number": 171,
+    "city": "Torrance",
+    "state": "California",
+    "pop": 147478,
+    "growth": "6.6%"
+  },
+  {
+    "number": 172,
+    "city": "Bridgeport",
+    "state": "Connecticut",
+    "pop": 147216,
+    "growth": "5.4%"
+  },
+  {
+    "number": 173,
+    "city": "Lakewood",
+    "state": "Colorado",
+    "pop": 147214,
+    "growth": "1.9%"
+  },
+  {
+    "number": 174,
+    "city": "Hollywood",
+    "state": "Florida",
+    "pop": 146526,
+    "growth": "4.8%"
+  },
+  {
+    "number": 175,
+    "city": "Paterson",
+    "state": "New Jersey",
+    "pop": 145948,
+    "growth": "-2.2%"
+  },
+  {
+    "number": 176,
+    "city": "Naperville",
+    "state": "Illinois",
+    "pop": 144864,
+    "growth": "12.0%"
+  },
+  {
+    "number": 177,
+    "city": "Syracuse",
+    "state": "New York",
+    "pop": 144669,
+    "growth": "-0.9%"
+  },
+  {
+    "number": 178,
+    "city": "Mesquite",
+    "state": "Texas",
+    "pop": 143484,
+    "growth": "14.7%"
+  },
+  {
+    "number": 179,
+    "city": "Dayton",
+    "state": "Ohio",
+    "pop": 143355,
+    "growth": "-13.5%"
+  },
+  {
+    "number": 180,
+    "city": "Savannah",
+    "state": "Georgia",
+    "pop": 142772,
+    "growth": "7.5%"
+  },
+  {
+    "number": 181,
+    "city": "Clarksville",
+    "state": "Tennessee",
+    "pop": 142357,
+    "growth": "36.9%"
+  },
+  {
+    "number": 182,
+    "city": "Orange",
+    "state": "California",
+    "pop": 139969,
+    "growth": "7.7%"
+  },
+  {
+    "number": 183,
+    "city": "Pasadena",
+    "state": "California",
+    "pop": 139731,
+    "growth": "3.8%"
+  },
+  {
+    "number": 184,
+    "city": "Fullerton",
+    "state": "California",
+    "pop": 138981,
+    "growth": "9.8%"
+  },
+  {
+    "number": 185,
+    "city": "Killeen",
+    "state": "Texas",
+    "pop": 137147,
+    "growth": "52.1%"
+  },
+  {
+    "number": 186,
+    "city": "Frisco",
+    "state": "Texas",
+    "pop": 136791,
+    "growth": "287.7%"
+  },
+  {
+    "number": 187,
+    "city": "Hampton",
+    "state": "Virginia",
+    "pop": 136699,
+    "growth": "-6.6%"
+  },
+  {
+    "number": 188,
+    "city": "McAllen",
+    "state": "Texas",
+    "pop": 136639,
+    "growth": "27.6%"
+  },
+  {
+    "number": 189,
+    "city": "Warren",
+    "state": "Michigan",
+    "pop": 134873,
+    "growth": "-2.3%"
+  },
+  {
+    "number": 190,
+    "city": "Bellevue",
+    "state": "Washington",
+    "pop": 133992,
+    "growth": "19.1%"
+  },
+  {
+    "number": 191,
+    "city": "West Valley City",
+    "state": "Utah",
+    "pop": 133579,
+    "growth": "22.2%"
+  },
+  {
+    "number": 192,
+    "city": "Columbia",
+    "state": "South Carolina",
+    "pop": 133358,
+    "growth": "11.7%"
+  },
+  {
+    "number": 193,
+    "city": "Olathe",
+    "state": "Kansas",
+    "pop": 131885,
+    "growth": "40.4%"
+  },
+  {
+    "number": 194,
+    "city": "Sterling Heights",
+    "state": "Michigan",
+    "pop": 131224,
+    "growth": "5.2%"
+  },
+  {
+    "number": 195,
+    "city": "New Haven",
+    "state": "Connecticut",
+    "pop": 130660,
+    "growth": "5.5%"
+  },
+  {
+    "number": 196,
+    "city": "Miramar",
+    "state": "Florida",
+    "pop": 130288,
+    "growth": "74.7%"
+  },
+  {
+    "number": 197,
+    "city": "Waco",
+    "state": "Texas",
+    "pop": 129030,
+    "growth": "12.5%"
+  },
+  {
+    "number": 198,
+    "city": "Thousand Oaks",
+    "state": "California",
+    "pop": 128731,
+    "growth": "9.5%"
+  },
+  {
+    "number": 199,
+    "city": "Cedar Rapids",
+    "state": "Iowa",
+    "pop": 128429,
+    "growth": "5.4%"
+  },
+  {
+    "number": 200,
+    "city": "Charleston",
+    "state": "South Carolina",
+    "pop": 127999,
+    "growth": "29.2%"
+  },
+  {
+    "number": 201,
+    "city": "Visalia",
+    "state": "California",
+    "pop": 127763,
+    "growth": "33.6%"
+  },
+  {
+    "number": 202,
+    "city": "Topeka",
+    "state": "Kansas",
+    "pop": 127679,
+    "growth": "3.4%"
+  },
+  {
+    "number": 203,
+    "city": "Elizabeth",
+    "state": "New Jersey",
+    "pop": 127558,
+    "growth": "5.5%"
+  },
+  {
+    "number": 204,
+    "city": "Gainesville",
+    "state": "Florida",
+    "pop": 127488,
+    "growth": "12.8%"
+  },
+  {
+    "number": 205,
+    "city": "Thornton",
+    "state": "Colorado",
+    "pop": 127359,
+    "growth": "52.9%"
+  },
+  {
+    "number": 206,
+    "city": "Roseville",
+    "state": "California",
+    "pop": 127035,
+    "growth": "56.2%"
+  },
+  {
+    "number": 207,
+    "city": "Carrollton",
+    "state": "Texas",
+    "pop": 126700,
+    "growth": "14.9%"
+  },
+  {
+    "number": 208,
+    "city": "Coral Springs",
+    "state": "Florida",
+    "pop": 126604,
+    "growth": "5.7%"
+  },
+  {
+    "number": 209,
+    "city": "Stamford",
+    "state": "Connecticut",
+    "pop": 126456,
+    "growth": "7.6%"
+  },
+  {
+    "number": 210,
+    "city": "Simi Valley",
+    "state": "California",
+    "pop": 126181,
+    "growth": "12.6%"
+  },
+  {
+    "number": 211,
+    "city": "Concord",
+    "state": "California",
+    "pop": 125880,
+    "growth": "2.9%"
+  },
+  {
+    "number": 212,
+    "city": "Hartford",
+    "state": "Connecticut",
+    "pop": 125017,
+    "growth": "0.6%"
+  },
+  {
+    "number": 213,
+    "city": "Kent",
+    "state": "Washington",
+    "pop": 124435,
+    "growth": "54.3%"
+  },
+  {
+    "number": 214,
+    "city": "Lafayette",
+    "state": "Louisiana",
+    "pop": 124276,
+    "growth": "11.0%"
+  },
+  {
+    "number": 215,
+    "city": "Midland",
+    "state": "Texas",
+    "pop": 123933,
+    "growth": "30.4%"
+  },
+  {
+    "number": 216,
+    "city": "Surprise",
+    "state": "Arizona",
+    "pop": 123546,
+    "growth": "281.9%"
+  },
+  {
+    "number": 217,
+    "city": "Denton",
+    "state": "Texas",
+    "pop": 123099,
+    "growth": "47.1%"
+  },
+  {
+    "number": 218,
+    "city": "Victorville",
+    "state": "California",
+    "pop": 121096,
+    "growth": "87.6%"
+  },
+  {
+    "number": 219,
+    "city": "Evansville",
+    "state": "Indiana",
+    "pop": 120310,
+    "growth": "-0.8%"
+  },
+  {
+    "number": 220,
+    "city": "Santa Clara",
+    "state": "California",
+    "pop": 120245,
+    "growth": "17.4%"
+  },
+  {
+    "number": 221,
+    "city": "Abilene",
+    "state": "Texas",
+    "pop": 120099,
+    "growth": "3.6%"
+  },
+  {
+    "number": 222,
+    "city": "Athens-Clarke County",
+    "state": "Georgia",
+    "pop": 119980,
+    "growth": "19.0%"
+  },
+  {
+    "number": 223,
+    "city": "Vallejo",
+    "state": "California",
+    "pop": 118837,
+    "growth": "1.2%"
+  },
+  {
+    "number": 224,
+    "city": "Allentown",
+    "state": "Pennsylvania",
+    "pop": 118577,
+    "growth": "11.2%"
+  },
+  {
+    "number": 225,
+    "city": "Norman",
+    "state": "Oklahoma",
+    "pop": 118197,
+    "growth": "22.0%"
+  },
+  {
+    "number": 226,
+    "city": "Beaumont",
+    "state": "Texas",
+    "pop": 117796,
+    "growth": "3.7%"
+  },
+  {
+    "number": 227,
+    "city": "Independence",
+    "state": "Missouri",
+    "pop": 117240,
+    "growth": "3.2%"
+  },
+  {
+    "number": 228,
+    "city": "Murfreesboro",
+    "state": "Tennessee",
+    "pop": 117044,
+    "growth": "65.1%"
+  },
+  {
+    "number": 229,
+    "city": "Ann Arbor",
+    "state": "Michigan",
+    "pop": 117025,
+    "growth": "2.0%"
+  },
+  {
+    "number": 230,
+    "city": "Springfield",
+    "state": "Illinois",
+    "pop": 117006,
+    "growth": "4.2%"
+  },
+  {
+    "number": 231,
+    "city": "Berkeley",
+    "state": "California",
+    "pop": 116768,
+    "growth": "13.3%"
+  },
+  {
+    "number": 232,
+    "city": "Peoria",
+    "state": "Illinois",
+    "pop": 116513,
+    "growth": "3.0%"
+  },
+  {
+    "number": 233,
+    "city": "Provo",
+    "state": "Utah",
+    "pop": 116288,
+    "growth": "10.0%"
+  },
+  {
+    "number": 234,
+    "city": "El Monte",
+    "state": "California",
+    "pop": 115708,
+    "growth": "-0.4%"
+  },
+  {
+    "number": 235,
+    "city": "Columbia",
+    "state": "Missouri",
+    "pop": 115276,
+    "growth": "34.0%"
+  },
+  {
+    "number": 236,
+    "city": "Lansing",
+    "state": "Michigan",
+    "pop": 113972,
+    "growth": "-4.4%"
+  },
+  {
+    "number": 237,
+    "city": "Fargo",
+    "state": "North Dakota",
+    "pop": 113658,
+    "growth": "24.9%"
+  },
+  {
+    "number": 238,
+    "city": "Downey",
+    "state": "California",
+    "pop": 113242,
+    "growth": "5.3%"
+  },
+  {
+    "number": 239,
+    "city": "Costa Mesa",
+    "state": "California",
+    "pop": 112174,
+    "growth": "2.4%"
+  },
+  {
+    "number": 240,
+    "city": "Wilmington",
+    "state": "North Carolina",
+    "pop": 112067,
+    "growth": "24.8%"
+  },
+  {
+    "number": 241,
+    "city": "Arvada",
+    "state": "Colorado",
+    "pop": 111707,
+    "growth": "9.2%"
+  },
+  {
+    "number": 242,
+    "city": "Inglewood",
+    "state": "California",
+    "pop": 111542,
+    "growth": "-1.0%"
+  },
+  {
+    "number": 243,
+    "city": "Miami Gardens",
+    "state": "Florida",
+    "pop": 111378,
+    "growth": "10.5%"
+  },
+  {
+    "number": 244,
+    "city": "Carlsbad",
+    "state": "California",
+    "pop": 110972,
+    "growth": "39.7%"
+  },
+  {
+    "number": 245,
+    "city": "Westminster",
+    "state": "Colorado",
+    "pop": 110945,
+    "growth": "9.4%"
+  },
+  {
+    "number": 246,
+    "city": "Rochester",
+    "state": "Minnesota",
+    "pop": 110742,
+    "growth": "23.9%"
+  },
+  {
+    "number": 247,
+    "city": "Odessa",
+    "state": "Texas",
+    "pop": 110720,
+    "growth": "22.3%"
+  },
+  {
+    "number": 248,
+    "city": "Manchester",
+    "state": "New Hampshire",
+    "pop": 110378,
+    "growth": "2.9%"
+  },
+  {
+    "number": 249,
+    "city": "Elgin",
+    "state": "Illinois",
+    "pop": 110145,
+    "growth": "16.0%"
+  },
+  {
+    "number": 250,
+    "city": "West Jordan",
+    "state": "Utah",
+    "pop": 110077,
+    "growth": "38.4%"
+  },
+  {
+    "number": 251,
+    "city": "Round Rock",
+    "state": "Texas",
+    "pop": 109821,
+    "growth": "81.0%"
+  },
+  {
+    "number": 252,
+    "city": "Clearwater",
+    "state": "Florida",
+    "pop": 109703,
+    "growth": "0.1%"
+  },
+  {
+    "number": 253,
+    "city": "Waterbury",
+    "state": "Connecticut",
+    "pop": 109676,
+    "growth": "2.2%"
+  },
+  {
+    "number": 254,
+    "city": "Gresham",
+    "state": "Oregon",
+    "pop": 109397,
+    "growth": "20.7%"
+  },
+  {
+    "number": 255,
+    "city": "Fairfield",
+    "state": "California",
+    "pop": 109320,
+    "growth": "12.8%"
+  },
+  {
+    "number": 256,
+    "city": "Billings",
+    "state": "Montana",
+    "pop": 109059,
+    "growth": "18.6%"
+  },
+  {
+    "number": 257,
+    "city": "Lowell",
+    "state": "Massachusetts",
+    "pop": 108861,
+    "growth": "3.4%"
+  },
+  {
+    "number": 258,
+    "city": "San Buenaventura (Ventura)",
+    "state": "California",
+    "pop": 108817,
+    "growth": "7.4%"
+  },
+  {
+    "number": 259,
+    "city": "Pueblo",
+    "state": "Colorado",
+    "pop": 108249,
+    "growth": "5.9%"
+  },
+  {
+    "number": 260,
+    "city": "High Point",
+    "state": "North Carolina",
+    "pop": 107741,
+    "growth": "24.3%"
+  },
+  {
+    "number": 261,
+    "city": "West Covina",
+    "state": "California",
+    "pop": 107740,
+    "growth": "2.3%"
+  },
+  {
+    "number": 262,
+    "city": "Richmond",
+    "state": "California",
+    "pop": 107571,
+    "growth": "7.9%"
+  },
+  {
+    "number": 263,
+    "city": "Murrieta",
+    "state": "California",
+    "pop": 107479,
+    "growth": "107.4%"
+  },
+  {
+    "number": 264,
+    "city": "Cambridge",
+    "state": "Massachusetts",
+    "pop": 107289,
+    "growth": "5.5%"
+  },
+  {
+    "number": 265,
+    "city": "Antioch",
+    "state": "California",
+    "pop": 107100,
+    "growth": "16.9%"
+  },
+  {
+    "number": 266,
+    "city": "Temecula",
+    "state": "California",
+    "pop": 106780,
+    "growth": "55.4%"
+  },
+  {
+    "number": 267,
+    "city": "Norwalk",
+    "state": "California",
+    "pop": 106589,
+    "growth": "1.9%"
+  },
+  {
+    "number": 268,
+    "city": "Centennial",
+    "state": "Colorado",
+    "pop": 106114,
+    "growth": "3.5%"
+  },
+  {
+    "number": 269,
+    "city": "Everett",
+    "state": "Washington",
+    "pop": 105370,
+    "growth": "9.4%"
+  },
+  {
+    "number": 270,
+    "city": "Palm Bay",
+    "state": "Florida",
+    "pop": 104898,
+    "growth": "31.7%"
+  },
+  {
+    "number": 271,
+    "city": "Wichita Falls",
+    "state": "Texas",
+    "pop": 104898,
+    "growth": "0.7%"
+  },
+  {
+    "number": 272,
+    "city": "Green Bay",
+    "state": "Wisconsin",
+    "pop": 104779,
+    "growth": "1.9%"
+  },
+  {
+    "number": 273,
+    "city": "Daly City",
+    "state": "California",
+    "pop": 104739,
+    "growth": "1.0%"
+  },
+  {
+    "number": 274,
+    "city": "Burbank",
+    "state": "California",
+    "pop": 104709,
+    "growth": "4.2%"
+  },
+  {
+    "number": 275,
+    "city": "Richardson",
+    "state": "Texas",
+    "pop": 104475,
+    "growth": "13.2%"
+  },
+  {
+    "number": 276,
+    "city": "Pompano Beach",
+    "state": "Florida",
+    "pop": 104410,
+    "growth": "4.0%"
+  },
+  {
+    "number": 277,
+    "city": "North Charleston",
+    "state": "South Carolina",
+    "pop": 104054,
+    "growth": "27.4%"
+  },
+  {
+    "number": 278,
+    "city": "Broken Arrow",
+    "state": "Oklahoma",
+    "pop": 103500,
+    "growth": "28.2%"
+  },
+  {
+    "number": 279,
+    "city": "Boulder",
+    "state": "Colorado",
+    "pop": 103166,
+    "growth": "9.0%"
+  },
+  {
+    "number": 280,
+    "city": "West Palm Beach",
+    "state": "Florida",
+    "pop": 102436,
+    "growth": "23.5%"
+  },
+  {
+    "number": 281,
+    "city": "Santa Maria",
+    "state": "California",
+    "pop": 102216,
+    "growth": "30.9%"
+  },
+  {
+    "number": 282,
+    "city": "El Cajon",
+    "state": "California",
+    "pop": 102211,
+    "growth": "7.4%"
+  },
+  {
+    "number": 283,
+    "city": "Davenport",
+    "state": "Iowa",
+    "pop": 102157,
+    "growth": "3.9%"
+  },
+  {
+    "number": 284,
+    "city": "Rialto",
+    "state": "California",
+    "pop": 101910,
+    "growth": "9.8%"
+  },
+  {
+    "number": 285,
+    "city": "Las Cruces",
+    "state": "New Mexico",
+    "pop": 101324,
+    "growth": "37.6%"
+  },
+  {
+    "number": 286,
+    "city": "San Mateo",
+    "state": "California",
+    "pop": 101128,
+    "growth": "9.0%"
+  },
+  {
+    "number": 287,
+    "city": "Lewisville",
+    "state": "Texas",
+    "pop": 101074,
+    "growth": "28.9%"
+  },
+  {
+    "number": 288,
+    "city": "South Bend",
+    "state": "Indiana",
+    "pop": 100886,
+    "growth": "-6.8%"
+  },
+  {
+    "number": 289,
+    "city": "Lakeland",
+    "state": "Florida",
+    "pop": 100710,
+    "growth": "18.3%"
+  },
+  {
+    "number": 290,
+    "city": "Erie",
+    "state": "Pennsylvania",
+    "pop": 100671,
+    "growth": "-2.8%"
+  },
+  {
+    "number": 291,
+    "city": "Tyler",
+    "state": "Texas",
+    "pop": 100223,
+    "growth": "18.6%"
+  },
+  {
+    "number": 292,
+    "city": "Pearland",
+    "state": "Texas",
+    "pop": 100065,
+    "growth": "117.2%"
+  },
+  {
+    "number": 293,
+    "city": "College Station",
+    "state": "Texas",
+    "pop": 100050,
+    "growth": "45.2%"
+  },
+  {
+    "number": 294,
+    "city": "Kenosha",
+    "state": "Wisconsin",
+    "pop": 99889,
+    "growth": "9.5%"
+  },
+  {
+    "number": 295,
+    "city": "Sandy Springs",
+    "state": "Georgia",
+    "pop": 99770,
+    "growth": "17.4%"
+  },
+  {
+    "number": 296,
+    "city": "Clovis",
+    "state": "California",
+    "pop": 99769,
+    "growth": "42.6%"
+  },
+  {
+    "number": 297,
+    "city": "Flint",
+    "state": "Michigan",
+    "pop": 99763,
+    "growth": "-20.0%"
+  },
+  {
+    "number": 298,
+    "city": "Roanoke",
+    "state": "Virginia",
+    "pop": 98465,
+    "growth": "3.8%"
+  },
+  {
+    "number": 299,
+    "city": "Albany",
+    "state": "New York",
+    "pop": 98424,
+    "growth": "4.1%"
+  },
+  {
+    "number": 300,
+    "city": "Jurupa Valley",
+    "state": "California",
+    "pop": 98030,
+    "growth": ""
+  },
+  {
+    "number": 301,
+    "city": "Compton",
+    "state": "California",
+    "pop": 97877,
+    "growth": "4.5%"
+  },
+  {
+    "number": 302,
+    "city": "San Angelo",
+    "state": "Texas",
+    "pop": 97492,
+    "growth": "10.2%"
+  },
+  {
+    "number": 303,
+    "city": "Hillsboro",
+    "state": "Oregon",
+    "pop": 97368,
+    "growth": "36.4%"
+  },
+  {
+    "number": 304,
+    "city": "Lawton",
+    "state": "Oklahoma",
+    "pop": 97151,
+    "growth": "4.9%"
+  },
+  {
+    "number": 305,
+    "city": "Renton",
+    "state": "Washington",
+    "pop": 97003,
+    "growth": "88.4%"
+  },
+  {
+    "number": 306,
+    "city": "Vista",
+    "state": "California",
+    "pop": 96929,
+    "growth": "7.7%"
+  },
+  {
+    "number": 307,
+    "city": "Davie",
+    "state": "Florida",
+    "pop": 96830,
+    "growth": "17.7%"
+  },
+  {
+    "number": 308,
+    "city": "Greeley",
+    "state": "Colorado",
+    "pop": 96539,
+    "growth": "23.1%"
+  },
+  {
+    "number": 309,
+    "city": "Mission Viejo",
+    "state": "California",
+    "pop": 96346,
+    "growth": "2.9%"
+  },
+  {
+    "number": 310,
+    "city": "Portsmouth",
+    "state": "Virginia",
+    "pop": 96205,
+    "growth": "-4.2%"
+  },
+  {
+    "number": 311,
+    "city": "Dearborn",
+    "state": "Michigan",
+    "pop": 95884,
+    "growth": "-2.0%"
+  },
+  {
+    "number": 312,
+    "city": "South Gate",
+    "state": "California",
+    "pop": 95677,
+    "growth": "-0.8%"
+  },
+  {
+    "number": 313,
+    "city": "Tuscaloosa",
+    "state": "Alabama",
+    "pop": 95334,
+    "growth": "21.1%"
+  },
+  {
+    "number": 314,
+    "city": "Livonia",
+    "state": "Michigan",
+    "pop": 95208,
+    "growth": "-5.4%"
+  },
+  {
+    "number": 315,
+    "city": "New Bedford",
+    "state": "Massachusetts",
+    "pop": 95078,
+    "growth": "1.2%"
+  },
+  {
+    "number": 316,
+    "city": "Vacaville",
+    "state": "California",
+    "pop": 94275,
+    "growth": "5.4%"
+  },
+  {
+    "number": 317,
+    "city": "Brockton",
+    "state": "Massachusetts",
+    "pop": 94089,
+    "growth": "-0.3%"
+  },
+  {
+    "number": 318,
+    "city": "Roswell",
+    "state": "Georgia",
+    "pop": 94034,
+    "growth": "15.2%"
+  },
+  {
+    "number": 319,
+    "city": "Beaverton",
+    "state": "Oregon",
+    "pop": 93542,
+    "growth": "17.0%"
+  },
+  {
+    "number": 320,
+    "city": "Quincy",
+    "state": "Massachusetts",
+    "pop": 93494,
+    "growth": "5.8%"
+  },
+  {
+    "number": 321,
+    "city": "Sparks",
+    "state": "Nevada",
+    "pop": 93282,
+    "growth": "39.4%"
+  },
+  {
+    "number": 322,
+    "city": "Yakima",
+    "state": "Washington",
+    "pop": 93257,
+    "growth": "11.7%"
+  },
+  {
+    "number": 323,
+    "city": "Lee's Summit",
+    "state": "Missouri",
+    "pop": 93184,
+    "growth": "31.2%"
+  },
+  {
+    "number": 324,
+    "city": "Federal Way",
+    "state": "Washington",
+    "pop": 92734,
+    "growth": "8.8%"
+  },
+  {
+    "number": 325,
+    "city": "Carson",
+    "state": "California",
+    "pop": 92599,
+    "growth": "2.9%"
+  },
+  {
+    "number": 326,
+    "city": "Santa Monica",
+    "state": "California",
+    "pop": 92472,
+    "growth": "9.6%"
+  },
+  {
+    "number": 327,
+    "city": "Hesperia",
+    "state": "California",
+    "pop": 92147,
+    "growth": "46.1%"
+  },
+  {
+    "number": 328,
+    "city": "Allen",
+    "state": "Texas",
+    "pop": 92020,
+    "growth": "104.0%"
+  },
+  {
+    "number": 329,
+    "city": "Rio Rancho",
+    "state": "New Mexico",
+    "pop": 91956,
+    "growth": "74.4%"
+  },
+  {
+    "number": 330,
+    "city": "Yuma",
+    "state": "Arizona",
+    "pop": 91923,
+    "growth": "16.2%"
+  },
+  {
+    "number": 331,
+    "city": "Westminster",
+    "state": "California",
+    "pop": 91739,
+    "growth": "3.9%"
+  },
+  {
+    "number": 332,
+    "city": "Orem",
+    "state": "Utah",
+    "pop": 91648,
+    "growth": "8.5%"
+  },
+  {
+    "number": 333,
+    "city": "Lynn",
+    "state": "Massachusetts",
+    "pop": 91589,
+    "growth": "2.6%"
+  },
+  {
+    "number": 334,
+    "city": "Redding",
+    "state": "California",
+    "pop": 91119,
+    "growth": "11.9%"
+  },
+  {
+    "number": 335,
+    "city": "Spokane Valley",
+    "state": "Washington",
+    "pop": 91113,
+    "growth": "12.6%"
+  },
+  {
+    "number": 336,
+    "city": "Miami Beach",
+    "state": "Florida",
+    "pop": 91026,
+    "growth": "3.3%"
+  },
+  {
+    "number": 337,
+    "city": "League City",
+    "state": "Texas",
+    "pop": 90983,
+    "growth": "98.3%"
+  },
+  {
+    "number": 338,
+    "city": "Lawrence",
+    "state": "Kansas",
+    "pop": 90811,
+    "growth": "12.7%"
+  },
+  {
+    "number": 339,
+    "city": "Santa Barbara",
+    "state": "California",
+    "pop": 90412,
+    "growth": "0.9%"
+  },
+  {
+    "number": 340,
+    "city": "Plantation",
+    "state": "Florida",
+    "pop": 90268,
+    "growth": "8.6%"
+  },
+  {
+    "number": 341,
+    "city": "Sandy",
+    "state": "Utah",
+    "pop": 90231,
+    "growth": "1.3%"
+  },
+  {
+    "number": 342,
+    "city": "Sunrise",
+    "state": "Florida",
+    "pop": 90116,
+    "growth": "4.6%"
+  },
+  {
+    "number": 343,
+    "city": "Macon",
+    "state": "Georgia",
+    "pop": 89981,
+    "growth": "-7.3%"
+  },
+  {
+    "number": 344,
+    "city": "Longmont",
+    "state": "Colorado",
+    "pop": 89919,
+    "growth": "24.4%"
+  },
+  {
+    "number": 345,
+    "city": "Boca Raton",
+    "state": "Florida",
+    "pop": 89407,
+    "growth": "7.5%"
+  },
+  {
+    "number": 346,
+    "city": "San Marcos",
+    "state": "California",
+    "pop": 89387,
+    "growth": "60.0%"
+  },
+  {
+    "number": 347,
+    "city": "Greenville",
+    "state": "North Carolina",
+    "pop": 89130,
+    "growth": "41.9%"
+  },
+  {
+    "number": 348,
+    "city": "Waukegan",
+    "state": "Illinois",
+    "pop": 88826,
+    "growth": "0.5%"
+  },
+  {
+    "number": 349,
+    "city": "Fall River",
+    "state": "Massachusetts",
+    "pop": 88697,
+    "growth": "-3.7%"
+  },
+  {
+    "number": 350,
+    "city": "Chico",
+    "state": "California",
+    "pop": 88077,
+    "growth": "14.2%"
+  },
+  {
+    "number": 351,
+    "city": "Newton",
+    "state": "Massachusetts",
+    "pop": 87971,
+    "growth": "4.9%"
+  },
+  {
+    "number": 352,
+    "city": "San Leandro",
+    "state": "California",
+    "pop": 87965,
+    "growth": "10.3%"
+  },
+  {
+    "number": 353,
+    "city": "Reading",
+    "state": "Pennsylvania",
+    "pop": 87893,
+    "growth": "8.0%"
+  },
+  {
+    "number": 354,
+    "city": "Norwalk",
+    "state": "Connecticut",
+    "pop": 87776,
+    "growth": "5.6%"
+  },
+  {
+    "number": 355,
+    "city": "Fort Smith",
+    "state": "Arkansas",
+    "pop": 87650,
+    "growth": "8.6%"
+  },
+  {
+    "number": 356,
+    "city": "Newport Beach",
+    "state": "California",
+    "pop": 87273,
+    "growth": "10.4%"
+  },
+  {
+    "number": 357,
+    "city": "Asheville",
+    "state": "North Carolina",
+    "pop": 87236,
+    "growth": "19.6%"
+  },
+  {
+    "number": 358,
+    "city": "Nashua",
+    "state": "New Hampshire",
+    "pop": 87137,
+    "growth": "0.4%"
+  },
+  {
+    "number": 359,
+    "city": "Edmond",
+    "state": "Oklahoma",
+    "pop": 87004,
+    "growth": "26.9%"
+  },
+  {
+    "number": 360,
+    "city": "Whittier",
+    "state": "California",
+    "pop": 86635,
+    "growth": "3.3%"
+  },
+  {
+    "number": 361,
+    "city": "Nampa",
+    "state": "Idaho",
+    "pop": 86518,
+    "growth": "57.9%"
+  },
+  {
+    "number": 362,
+    "city": "Bloomington",
+    "state": "Minnesota",
+    "pop": 86319,
+    "growth": "1.3%"
+  },
+  {
+    "number": 363,
+    "city": "Deltona",
+    "state": "Florida",
+    "pop": 86290,
+    "growth": "23.1%"
+  },
+  {
+    "number": 364,
+    "city": "Hawthorne",
+    "state": "California",
+    "pop": 86199,
+    "growth": "2.3%"
+  },
+  {
+    "number": 365,
+    "city": "Duluth",
+    "state": "Minnesota",
+    "pop": 86128,
+    "growth": "-0.1%"
+  },
+  {
+    "number": 366,
+    "city": "Carmel",
+    "state": "Indiana",
+    "pop": 85927,
+    "growth": "60.4%"
+  },
+  {
+    "number": 367,
+    "city": "Suffolk",
+    "state": "Virginia",
+    "pop": 85728,
+    "growth": "33.5%"
+  },
+  {
+    "number": 368,
+    "city": "Clifton",
+    "state": "New Jersey",
+    "pop": 85390,
+    "growth": "7.9%"
+  },
+  {
+    "number": 369,
+    "city": "Citrus Heights",
+    "state": "California",
+    "pop": 85285,
+    "growth": "-0.1%"
+  },
+  {
+    "number": 370,
+    "city": "Livermore",
+    "state": "California",
+    "pop": 85156,
+    "growth": "15.1%"
+  },
+  {
+    "number": 371,
+    "city": "Tracy",
+    "state": "California",
+    "pop": 84691,
+    "growth": "45.9%"
+  },
+  {
+    "number": 372,
+    "city": "Alhambra",
+    "state": "California",
+    "pop": 84577,
+    "growth": "-0.7%"
+  },
+  {
+    "number": 373,
+    "city": "Kirkland",
+    "state": "Washington",
+    "pop": 84430,
+    "growth": "87.5%"
+  },
+  {
+    "number": 374,
+    "city": "Trenton",
+    "state": "New Jersey",
+    "pop": 84349,
+    "growth": "-1.2%"
+  },
+  {
+    "number": 375,
+    "city": "Ogden",
+    "state": "Utah",
+    "pop": 84249,
+    "growth": "8.6%"
+  },
+  {
+    "number": 376,
+    "city": "Hoover",
+    "state": "Alabama",
+    "pop": 84126,
+    "growth": "32.7%"
+  },
+  {
+    "number": 377,
+    "city": "Cicero",
+    "state": "Illinois",
+    "pop": 84103,
+    "growth": "-1.6%"
+  },
+  {
+    "number": 378,
+    "city": "Fishers",
+    "state": "Indiana",
+    "pop": 83891,
+    "growth": "114.8%"
+  },
+  {
+    "number": 379,
+    "city": "Sugar Land",
+    "state": "Texas",
+    "pop": 83860,
+    "growth": "29.1%"
+  },
+  {
+    "number": 380,
+    "city": "Danbury",
+    "state": "Connecticut",
+    "pop": 83684,
+    "growth": "11.4%"
+  },
+  {
+    "number": 381,
+    "city": "Meridian",
+    "state": "Idaho",
+    "pop": 83596,
+    "growth": "127.6%"
+  },
+  {
+    "number": 382,
+    "city": "Indio",
+    "state": "California",
+    "pop": 83539,
+    "growth": "66.0%"
+  },
+  {
+    "number": 383,
+    "city": "Concord",
+    "state": "North Carolina",
+    "pop": 83506,
+    "growth": "47.4%"
+  },
+  {
+    "number": 384,
+    "city": "Menifee",
+    "state": "California",
+    "pop": 83447,
+    "growth": "95.0%"
+  },
+  {
+    "number": 385,
+    "city": "Champaign",
+    "state": "Illinois",
+    "pop": 83424,
+    "growth": "18.3%"
+  },
+  {
+    "number": 386,
+    "city": "Buena Park",
+    "state": "California",
+    "pop": 82882,
+    "growth": "6.1%"
+  },
+  {
+    "number": 387,
+    "city": "Troy",
+    "state": "Michigan",
+    "pop": 82821,
+    "growth": "2.2%"
+  },
+  {
+    "number": 388,
+    "city": "O'Fallon",
+    "state": "Missouri",
+    "pop": 82809,
+    "growth": "62.6%"
+  },
+  {
+    "number": 389,
+    "city": "Johns Creek",
+    "state": "Georgia",
+    "pop": 82788,
+    "growth": "36.5%"
+  },
+  {
+    "number": 390,
+    "city": "Bellingham",
+    "state": "Washington",
+    "pop": 82631,
+    "growth": "21.8%"
+  },
+  {
+    "number": 391,
+    "city": "Westland",
+    "state": "Michigan",
+    "pop": 82578,
+    "growth": "-4.7%"
+  },
+  {
+    "number": 392,
+    "city": "Bloomington",
+    "state": "Indiana",
+    "pop": 82575,
+    "growth": "16.1%"
+  },
+  {
+    "number": 393,
+    "city": "Sioux City",
+    "state": "Iowa",
+    "pop": 82459,
+    "growth": "-2.9%"
+  },
+  {
+    "number": 394,
+    "city": "Warwick",
+    "state": "Rhode Island",
+    "pop": 81971,
+    "growth": "-4.6%"
+  },
+  {
+    "number": 395,
+    "city": "Hemet",
+    "state": "California",
+    "pop": 81750,
+    "growth": "37.6%"
+  },
+  {
+    "number": 396,
+    "city": "Longview",
+    "state": "Texas",
+    "pop": 81443,
+    "growth": "11.6%"
+  },
+  {
+    "number": 397,
+    "city": "Farmington Hills",
+    "state": "Michigan",
+    "pop": 81295,
+    "growth": "-0.9%"
+  },
+  {
+    "number": 398,
+    "city": "Bend",
+    "state": "Oregon",
+    "pop": 81236,
+    "growth": "54.3%"
+  },
+  {
+    "number": 399,
+    "city": "Lakewood",
+    "state": "California",
+    "pop": 81121,
+    "growth": "2.1%"
+  },
+  {
+    "number": 400,
+    "city": "Merced",
+    "state": "California",
+    "pop": 81102,
+    "growth": "25.4%"
+  },
+  {
+    "number": 401,
+    "city": "Mission",
+    "state": "Texas",
+    "pop": 81050,
+    "growth": "74.5%"
+  },
+  {
+    "number": 402,
+    "city": "Chino",
+    "state": "California",
+    "pop": 80988,
+    "growth": "15.6%"
+  },
+  {
+    "number": 403,
+    "city": "Redwood City",
+    "state": "California",
+    "pop": 80872,
+    "growth": "7.1%"
+  },
+  {
+    "number": 404,
+    "city": "Edinburg",
+    "state": "Texas",
+    "pop": 80836,
+    "growth": "65.1%"
+  },
+  {
+    "number": 405,
+    "city": "Cranston",
+    "state": "Rhode Island",
+    "pop": 80566,
+    "growth": "1.4%"
+  },
+  {
+    "number": 406,
+    "city": "Parma",
+    "state": "Ohio",
+    "pop": 80429,
+    "growth": "-5.9%"
+  },
+  {
+    "number": 407,
+    "city": "New Rochelle",
+    "state": "New York",
+    "pop": 79446,
+    "growth": "9.9%"
+  },
+  {
+    "number": 408,
+    "city": "Lake Forest",
+    "state": "California",
+    "pop": 79312,
+    "growth": "4.2%"
+  },
+  {
+    "number": 409,
+    "city": "Napa",
+    "state": "California",
+    "pop": 79068,
+    "growth": "8.4%"
+  },
+  {
+    "number": 410,
+    "city": "Hammond",
+    "state": "Indiana",
+    "pop": 78967,
+    "growth": "-4.6%"
+  },
+  {
+    "number": 411,
+    "city": "Fayetteville",
+    "state": "Arkansas",
+    "pop": 78960,
+    "growth": "32.9%"
+  },
+  {
+    "number": 412,
+    "city": "Bloomington",
+    "state": "Illinois",
+    "pop": 78902,
+    "growth": "20.1%"
+  },
+  {
+    "number": 413,
+    "city": "Avondale",
+    "state": "Arizona",
+    "pop": 78822,
+    "growth": "111.5%"
+  },
+  {
+    "number": 414,
+    "city": "Somerville",
+    "state": "Massachusetts",
+    "pop": 78804,
+    "growth": "1.6%"
+  },
+  {
+    "number": 415,
+    "city": "Palm Coast",
+    "state": "Florida",
+    "pop": 78740,
+    "growth": "137.2%"
+  },
+  {
+    "number": 416,
+    "city": "Bryan",
+    "state": "Texas",
+    "pop": 78709,
+    "growth": "19.3%"
+  },
+  {
+    "number": 417,
+    "city": "Gary",
+    "state": "Indiana",
+    "pop": 78450,
+    "growth": "-23.4%"
+  },
+  {
+    "number": 418,
+    "city": "Largo",
+    "state": "Florida",
+    "pop": 78409,
+    "growth": "5.1%"
+  },
+  {
+    "number": 419,
+    "city": "Brooklyn Park",
+    "state": "Minnesota",
+    "pop": 78373,
+    "growth": "16.0%"
+  },
+  {
+    "number": 420,
+    "city": "Tustin",
+    "state": "California",
+    "pop": 78327,
+    "growth": "15.6%"
+  },
+  {
+    "number": 421,
+    "city": "Racine",
+    "state": "Wisconsin",
+    "pop": 78199,
+    "growth": "-4.4%"
+  },
+  {
+    "number": 422,
+    "city": "Deerfield Beach",
+    "state": "Florida",
+    "pop": 78041,
+    "growth": "4.8%"
+  },
+  {
+    "number": 423,
+    "city": "Lynchburg",
+    "state": "Virginia",
+    "pop": 78014,
+    "growth": "19.5%"
+  },
+  {
+    "number": 424,
+    "city": "Mountain View",
+    "state": "California",
+    "pop": 77846,
+    "growth": "10.1%"
+  },
+  {
+    "number": 425,
+    "city": "Medford",
+    "state": "Oregon",
+    "pop": 77677,
+    "growth": "17.1%"
+  },
+  {
+    "number": 426,
+    "city": "Lawrence",
+    "state": "Massachusetts",
+    "pop": 77657,
+    "growth": "7.5%"
+  },
+  {
+    "number": 427,
+    "city": "Bellflower",
+    "state": "California",
+    "pop": 77593,
+    "growth": "6.3%"
+  },
+  {
+    "number": 428,
+    "city": "Melbourne",
+    "state": "Florida",
+    "pop": 77508,
+    "growth": "5.9%"
+  },
+  {
+    "number": 429,
+    "city": "St. Joseph",
+    "state": "Missouri",
+    "pop": 77147,
+    "growth": "4.1%"
+  },
+  {
+    "number": 430,
+    "city": "Camden",
+    "state": "New Jersey",
+    "pop": 76903,
+    "growth": "-3.6%"
+  },
+  {
+    "number": 431,
+    "city": "St. George",
+    "state": "Utah",
+    "pop": 76817,
+    "growth": "53.1%"
+  },
+  {
+    "number": 432,
+    "city": "Kennewick",
+    "state": "Washington",
+    "pop": 76762,
+    "growth": "29.1%"
+  },
+  {
+    "number": 433,
+    "city": "Baldwin Park",
+    "state": "California",
+    "pop": 76635,
+    "growth": "0.8%"
+  },
+  {
+    "number": 434,
+    "city": "Chino Hills",
+    "state": "California",
+    "pop": 76572,
+    "growth": "13.6%"
+  },
+  {
+    "number": 435,
+    "city": "Alameda",
+    "state": "California",
+    "pop": 76419,
+    "growth": "5.4%"
+  },
+  {
+    "number": 436,
+    "city": "Albany",
+    "state": "Georgia",
+    "pop": 76185,
+    "growth": "-0.6%"
+  },
+  {
+    "number": 437,
+    "city": "Arlington Heights",
+    "state": "Illinois",
+    "pop": 75994,
+    "growth": "-0.6%"
+  },
+  {
+    "number": 438,
+    "city": "Scranton",
+    "state": "Pennsylvania",
+    "pop": 75806,
+    "growth": "0.0%"
+  },
+  {
+    "number": 439,
+    "city": "Evanston",
+    "state": "Illinois",
+    "pop": 75570,
+    "growth": "1.9%"
+  },
+  {
+    "number": 440,
+    "city": "Kalamazoo",
+    "state": "Michigan",
+    "pop": 75548,
+    "growth": "-1.9%"
+  },
+  {
+    "number": 441,
+    "city": "Baytown",
+    "state": "Texas",
+    "pop": 75418,
+    "growth": "13.1%"
+  },
+  {
+    "number": 442,
+    "city": "Upland",
+    "state": "California",
+    "pop": 75413,
+    "growth": "9.5%"
+  },
+  {
+    "number": 443,
+    "city": "Springdale",
+    "state": "Arkansas",
+    "pop": 75229,
+    "growth": "57.1%"
+  },
+  {
+    "number": 444,
+    "city": "Bethlehem",
+    "state": "Pennsylvania",
+    "pop": 75018,
+    "growth": "5.2%"
+  },
+  {
+    "number": 445,
+    "city": "Schaumburg",
+    "state": "Illinois",
+    "pop": 74907,
+    "growth": "-0.5%"
+  },
+  {
+    "number": 446,
+    "city": "Mount Pleasant",
+    "state": "South Carolina",
+    "pop": 74885,
+    "growth": "53.2%"
+  },
+  {
+    "number": 447,
+    "city": "Auburn",
+    "state": "Washington",
+    "pop": 74860,
+    "growth": "34.9%"
+  },
+  {
+    "number": 448,
+    "city": "Decatur",
+    "state": "Illinois",
+    "pop": 74710,
+    "growth": "-8.7%"
+  },
+  {
+    "number": 449,
+    "city": "San Ramon",
+    "state": "California",
+    "pop": 74513,
+    "growth": "65.8%"
+  },
+  {
+    "number": 450,
+    "city": "Pleasanton",
+    "state": "California",
+    "pop": 74110,
+    "growth": "15.2%"
+  },
+  {
+    "number": 451,
+    "city": "Wyoming",
+    "state": "Michigan",
+    "pop": 74100,
+    "growth": "6.5%"
+  },
+  {
+    "number": 452,
+    "city": "Lake Charles",
+    "state": "Louisiana",
+    "pop": 74024,
+    "growth": "3.0%"
+  },
+  {
+    "number": 453,
+    "city": "Plymouth",
+    "state": "Minnesota",
+    "pop": 73987,
+    "growth": "12.0%"
+  },
+  {
+    "number": 454,
+    "city": "Bolingbrook",
+    "state": "Illinois",
+    "pop": 73936,
+    "growth": "29.7%"
+  },
+  {
+    "number": 455,
+    "city": "Pharr",
+    "state": "Texas",
+    "pop": 73790,
+    "growth": "55.7%"
+  },
+  {
+    "number": 456,
+    "city": "Appleton",
+    "state": "Wisconsin",
+    "pop": 73596,
+    "growth": "4.5%"
+  },
+  {
+    "number": 457,
+    "city": "Gastonia",
+    "state": "North Carolina",
+    "pop": 73209,
+    "growth": "8.2%"
+  },
+  {
+    "number": 458,
+    "city": "Folsom",
+    "state": "California",
+    "pop": 73098,
+    "growth": "38.6%"
+  },
+  {
+    "number": 459,
+    "city": "Southfield",
+    "state": "Michigan",
+    "pop": 73006,
+    "growth": "-6.7%"
+  },
+  {
+    "number": 460,
+    "city": "Rochester Hills",
+    "state": "Michigan",
+    "pop": 72952,
+    "growth": "5.7%"
+  },
+  {
+    "number": 461,
+    "city": "New Britain",
+    "state": "Connecticut",
+    "pop": 72939,
+    "growth": "1.9%"
+  },
+  {
+    "number": 462,
+    "city": "Goodyear",
+    "state": "Arizona",
+    "pop": 72864,
+    "growth": "271.0%"
+  },
+  {
+    "number": 463,
+    "city": "Canton",
+    "state": "Ohio",
+    "pop": 72535,
+    "growth": "-10.3%"
+  },
+  {
+    "number": 464,
+    "city": "Warner Robins",
+    "state": "Georgia",
+    "pop": 72531,
+    "growth": "45.7%"
+  },
+  {
+    "number": 465,
+    "city": "Union City",
+    "state": "California",
+    "pop": 72528,
+    "growth": "7.4%"
+  },
+  {
+    "number": 466,
+    "city": "Perris",
+    "state": "California",
+    "pop": 72326,
+    "growth": "98.7%"
+  },
+  {
+    "number": 467,
+    "city": "Manteca",
+    "state": "California",
+    "pop": 71948,
+    "growth": "42.7%"
+  },
+  {
+    "number": 468,
+    "city": "Iowa City",
+    "state": "Iowa",
+    "pop": 71591,
+    "growth": "13.8%"
+  },
+  {
+    "number": 469,
+    "city": "Jonesboro",
+    "state": "Arkansas",
+    "pop": 71551,
+    "growth": "28.3%"
+  },
+  {
+    "number": 470,
+    "city": "Wilmington",
+    "state": "Delaware",
+    "pop": 71525,
+    "growth": "-1.6%"
+  },
+  {
+    "number": 471,
+    "city": "Lynwood",
+    "state": "California",
+    "pop": 71371,
+    "growth": "2.0%"
+  },
+  {
+    "number": 472,
+    "city": "Loveland",
+    "state": "Colorado",
+    "pop": 71334,
+    "growth": "37.4%"
+  },
+  {
+    "number": 473,
+    "city": "Pawtucket",
+    "state": "Rhode Island",
+    "pop": 71172,
+    "growth": "-2.5%"
+  },
+  {
+    "number": 474,
+    "city": "Boynton Beach",
+    "state": "Florida",
+    "pop": 71097,
+    "growth": "17.3%"
+  },
+  {
+    "number": 475,
+    "city": "Waukesha",
+    "state": "Wisconsin",
+    "pop": 71016,
+    "growth": "8.0%"
+  },
+  {
+    "number": 476,
+    "city": "Gulfport",
+    "state": "Mississippi",
+    "pop": 71012,
+    "growth": "-0.6%"
+  },
+  {
+    "number": 477,
+    "city": "Apple Valley",
+    "state": "California",
+    "pop": 70924,
+    "growth": "29.9%"
+  },
+  {
+    "number": 478,
+    "city": "Passaic",
+    "state": "New Jersey",
+    "pop": 70868,
+    "growth": "4.3%"
+  },
+  {
+    "number": 479,
+    "city": "Rapid City",
+    "state": "South Dakota",
+    "pop": 70812,
+    "growth": "17.9%"
+  },
+  {
+    "number": 480,
+    "city": "Layton",
+    "state": "Utah",
+    "pop": 70790,
+    "growth": "20.2%"
+  },
+  {
+    "number": 481,
+    "city": "Lafayette",
+    "state": "Indiana",
+    "pop": 70373,
+    "growth": "14.5%"
+  },
+  {
+    "number": 482,
+    "city": "Turlock",
+    "state": "California",
+    "pop": 70365,
+    "growth": "23.5%"
+  },
+  {
+    "number": 483,
+    "city": "Muncie",
+    "state": "Indiana",
+    "pop": 70316,
+    "growth": "-0.7%"
+  },
+  {
+    "number": 484,
+    "city": "Temple",
+    "state": "Texas",
+    "pop": 70190,
+    "growth": "27.1%"
+  },
+  {
+    "number": 485,
+    "city": "Missouri City",
+    "state": "Texas",
+    "pop": 70185,
+    "growth": "31.1%"
+  },
+  {
+    "number": 486,
+    "city": "Redlands",
+    "state": "California",
+    "pop": 69999,
+    "growth": "9.4%"
+  },
+  {
+    "number": 487,
+    "city": "Santa Fe",
+    "state": "New Mexico",
+    "pop": 69976,
+    "growth": "10.5%"
+  },
+  {
+    "number": 488,
+    "city": "Lauderhill",
+    "state": "Florida",
+    "pop": 69813,
+    "growth": "4.2%"
+  },
+  {
+    "number": 489,
+    "city": "Milpitas",
+    "state": "California",
+    "pop": 69783,
+    "growth": "11.0%"
+  },
+  {
+    "number": 490,
+    "city": "Palatine",
+    "state": "Illinois",
+    "pop": 69350,
+    "growth": "4.5%"
+  },
+  {
+    "number": 491,
+    "city": "Missoula",
+    "state": "Montana",
+    "pop": 69122,
+    "growth": "19.7%"
+  },
+  {
+    "number": 492,
+    "city": "Rock Hill",
+    "state": "South Carolina",
+    "pop": 69103,
+    "growth": "36.0%"
+  },
+  {
+    "number": 493,
+    "city": "Jacksonville",
+    "state": "North Carolina",
+    "pop": 69079,
+    "growth": "5.0%"
+  },
+  {
+    "number": 494,
+    "city": "Franklin",
+    "state": "Tennessee",
+    "pop": 68886,
+    "growth": "48.5%"
+  },
+  {
+    "number": 495,
+    "city": "Flagstaff",
+    "state": "Arizona",
+    "pop": 68667,
+    "growth": "29.3%"
+  },
+  {
+    "number": 496,
+    "city": "Flower Mound",
+    "state": "Texas",
+    "pop": 68609,
+    "growth": "32.5%"
+  },
+  {
+    "number": 497,
+    "city": "Weston",
+    "state": "Florida",
+    "pop": 68388,
+    "growth": "34.5%"
+  },
+  {
+    "number": 498,
+    "city": "Waterloo",
+    "state": "Iowa",
+    "pop": 68366,
+    "growth": "-0.5%"
+  },
+  {
+    "number": 499,
+    "city": "Union City",
+    "state": "New Jersey",
+    "pop": 68247,
+    "growth": "1.7%"
+  },
+  {
+    "number": 500,
+    "city": "Mount Vernon",
+    "state": "New York",
+    "pop": 68224,
+    "growth": "-0.2%"
+  },
+  {
+    "number": 501,
+    "city": "Fort Myers",
+    "state": "Florida",
+    "pop": 68190,
+    "growth": "31.2%"
+  },
+  {
+    "number": 502,
+    "city": "Dothan",
+    "state": "Alabama",
+    "pop": 68001,
+    "growth": "16.6%"
+  },
+  {
+    "number": 503,
+    "city": "Rancho Cordova",
+    "state": "California",
+    "pop": 67911,
+    "growth": "26.4%"
+  },
+  {
+    "number": 504,
+    "city": "Redondo Beach",
+    "state": "California",
+    "pop": 67815,
+    "growth": "6.7%"
+  },
+  {
+    "number": 505,
+    "city": "Jackson",
+    "state": "Tennessee",
+    "pop": 67685,
+    "growth": "12.9%"
+  },
+  {
+    "number": 506,
+    "city": "Pasco",
+    "state": "Washington",
+    "pop": 67599,
+    "growth": "98.5%"
+  },
+  {
+    "number": 507,
+    "city": "St. Charles",
+    "state": "Missouri",
+    "pop": 67569,
+    "growth": "11.3%"
+  },
+  {
+    "number": 508,
+    "city": "Eau Claire",
+    "state": "Wisconsin",
+    "pop": 67545,
+    "growth": "8.7%"
+  },
+  {
+    "number": 509,
+    "city": "North Richland Hills",
+    "state": "Texas",
+    "pop": 67317,
+    "growth": "20.2%"
+  },
+  {
+    "number": 510,
+    "city": "Bismarck",
+    "state": "North Dakota",
+    "pop": 67034,
+    "growth": "20.1%"
+  },
+  {
+    "number": 511,
+    "city": "Yorba Linda",
+    "state": "California",
+    "pop": 67032,
+    "growth": "13.4%"
+  },
+  {
+    "number": 512,
+    "city": "Kenner",
+    "state": "Louisiana",
+    "pop": 66975,
+    "growth": "-4.8%"
+  },
+  {
+    "number": 513,
+    "city": "Walnut Creek",
+    "state": "California",
+    "pop": 66900,
+    "growth": "3.5%"
+  },
+  {
+    "number": 514,
+    "city": "Frederick",
+    "state": "Maryland",
+    "pop": 66893,
+    "growth": "25.9%"
+  },
+  {
+    "number": 515,
+    "city": "Oshkosh",
+    "state": "Wisconsin",
+    "pop": 66778,
+    "growth": "5.3%"
+  },
+  {
+    "number": 516,
+    "city": "Pittsburg",
+    "state": "California",
+    "pop": 66695,
+    "growth": "16.6%"
+  },
+  {
+    "number": 517,
+    "city": "Palo Alto",
+    "state": "California",
+    "pop": 66642,
+    "growth": "13.7%"
+  },
+  {
+    "number": 518,
+    "city": "Bossier City",
+    "state": "Louisiana",
+    "pop": 66333,
+    "growth": "17.4%"
+  },
+  {
+    "number": 519,
+    "city": "Portland",
+    "state": "Maine",
+    "pop": 66318,
+    "growth": "3.2%"
+  },
+  {
+    "number": 520,
+    "city": "St. Cloud",
+    "state": "Minnesota",
+    "pop": 66297,
+    "growth": "10.9%"
+  },
+  {
+    "number": 521,
+    "city": "Davis",
+    "state": "California",
+    "pop": 66205,
+    "growth": "11.9%"
+  },
+  {
+    "number": 522,
+    "city": "South San Francisco",
+    "state": "California",
+    "pop": 66174,
+    "growth": "9.1%"
+  },
+  {
+    "number": 523,
+    "city": "Camarillo",
+    "state": "California",
+    "pop": 66086,
+    "growth": "14.9%"
+  },
+  {
+    "number": 524,
+    "city": "North Little Rock",
+    "state": "Arkansas",
+    "pop": 66075,
+    "growth": "9.0%"
+  },
+  {
+    "number": 525,
+    "city": "Schenectady",
+    "state": "New York",
+    "pop": 65902,
+    "growth": "6.7%"
+  },
+  {
+    "number": 526,
+    "city": "Gaithersburg",
+    "state": "Maryland",
+    "pop": 65690,
+    "growth": "24.2%"
+  },
+  {
+    "number": 527,
+    "city": "Harlingen",
+    "state": "Texas",
+    "pop": 65665,
+    "growth": "11.6%"
+  },
+  {
+    "number": 528,
+    "city": "Woodbury",
+    "state": "Minnesota",
+    "pop": 65656,
+    "growth": "39.8%"
+  },
+  {
+    "number": 529,
+    "city": "Eagan",
+    "state": "Minnesota",
+    "pop": 65453,
+    "growth": "2.6%"
+  },
+  {
+    "number": 530,
+    "city": "Yuba City",
+    "state": "California",
+    "pop": 65416,
+    "growth": "27.9%"
+  },
+  {
+    "number": 531,
+    "city": "Maple Grove",
+    "state": "Minnesota",
+    "pop": 65415,
+    "growth": "27.3%"
+  },
+  {
+    "number": 532,
+    "city": "Youngstown",
+    "state": "Ohio",
+    "pop": 65184,
+    "growth": "-20.2%"
+  },
+  {
+    "number": 533,
+    "city": "Skokie",
+    "state": "Illinois",
+    "pop": 65176,
+    "growth": "2.8%"
+  },
+  {
+    "number": 534,
+    "city": "Kissimmee",
+    "state": "Florida",
+    "pop": 65173,
+    "growth": "32.6%"
+  },
+  {
+    "number": 535,
+    "city": "Johnson City",
+    "state": "Tennessee",
+    "pop": 65123,
+    "growth": "16.2%"
+  },
+  {
+    "number": 536,
+    "city": "Victoria",
+    "state": "Texas",
+    "pop": 65098,
+    "growth": "7.5%"
+  },
+  {
+    "number": 537,
+    "city": "San Clemente",
+    "state": "California",
+    "pop": 65040,
+    "growth": "28.6%"
+  },
+  {
+    "number": 538,
+    "city": "Bayonne",
+    "state": "New Jersey",
+    "pop": 65028,
+    "growth": "5.1%"
+  },
+  {
+    "number": 539,
+    "city": "Laguna Niguel",
+    "state": "California",
+    "pop": 64652,
+    "growth": "2.8%"
+  },
+  {
+    "number": 540,
+    "city": "East Orange",
+    "state": "New Jersey",
+    "pop": 64544,
+    "growth": "-7.4%"
+  },
+  {
+    "number": 541,
+    "city": "Shawnee",
+    "state": "Kansas",
+    "pop": 64323,
+    "growth": "32.2%"
+  },
+  {
+    "number": 542,
+    "city": "Homestead",
+    "state": "Florida",
+    "pop": 64079,
+    "growth": "100.7%"
+  },
+  {
+    "number": 544,
+    "city": "Rockville",
+    "state": "Maryland",
+    "pop": 64072,
+    "growth": "34.0%"
+  },
+  {
+    "number": 543,
+    "city": "Delray Beach",
+    "state": "Florida",
+    "pop": 64072,
+    "growth": "6.1%"
+  },
+  {
+    "number": 545,
+    "city": "Janesville",
+    "state": "Wisconsin",
+    "pop": 63820,
+    "growth": "5.6%"
+  },
+  {
+    "number": 546,
+    "city": "Conway",
+    "state": "Arkansas",
+    "pop": 63816,
+    "growth": "46.1%"
+  },
+  {
+    "number": 547,
+    "city": "Pico Rivera",
+    "state": "California",
+    "pop": 63771,
+    "growth": "0.4%"
+  },
+  {
+    "number": 548,
+    "city": "Lorain",
+    "state": "Ohio",
+    "pop": 63710,
+    "growth": "-7.2%"
+  },
+  {
+    "number": 549,
+    "city": "Montebello",
+    "state": "California",
+    "pop": 63495,
+    "growth": "2.0%"
+  },
+  {
+    "number": 550,
+    "city": "Lodi",
+    "state": "California",
+    "pop": 63338,
+    "growth": "10.1%"
+  },
+  {
+    "number": 551,
+    "city": "New Braunfels",
+    "state": "Texas",
+    "pop": 63279,
+    "growth": "64.0%"
+  },
+  {
+    "number": 552,
+    "city": "Marysville",
+    "state": "Washington",
+    "pop": 63269,
+    "growth": "115.7%"
+  },
+  {
+    "number": 553,
+    "city": "Tamarac",
+    "state": "Florida",
+    "pop": 63155,
+    "growth": "12.9%"
+  },
+  {
+    "number": 554,
+    "city": "Madera",
+    "state": "California",
+    "pop": 63105,
+    "growth": "44.4%"
+  },
+  {
+    "number": 555,
+    "city": "Conroe",
+    "state": "Texas",
+    "pop": 63032,
+    "growth": "61.9%"
+  },
+  {
+    "number": 556,
+    "city": "Santa Cruz",
+    "state": "California",
+    "pop": 62864,
+    "growth": "12.5%"
+  },
+  {
+    "number": 557,
+    "city": "Eden Prairie",
+    "state": "Minnesota",
+    "pop": 62603,
+    "growth": "13.3%"
+  },
+  {
+    "number": 558,
+    "city": "Cheyenne",
+    "state": "Wyoming",
+    "pop": 62448,
+    "growth": "16.9%"
+  },
+  {
+    "number": 559,
+    "city": "Daytona Beach",
+    "state": "Florida",
+    "pop": 62316,
+    "growth": "-2.3%"
+  },
+  {
+    "number": 560,
+    "city": "Alpharetta",
+    "state": "Georgia",
+    "pop": 62298,
+    "growth": "33.6%"
+  },
+  {
+    "number": 561,
+    "city": "Hamilton",
+    "state": "Ohio",
+    "pop": 62258,
+    "growth": "2.7%"
+  },
+  {
+    "number": 562,
+    "city": "Waltham",
+    "state": "Massachusetts",
+    "pop": 62227,
+    "growth": "5.0%"
+  },
+  {
+    "number": 563,
+    "city": "Coon Rapids",
+    "state": "Minnesota",
+    "pop": 62103,
+    "growth": "0.6%"
+  },
+  {
+    "number": 564,
+    "city": "Haverhill",
+    "state": "Massachusetts",
+    "pop": 62088,
+    "growth": "5.0%"
+  },
+  {
+    "number": 565,
+    "city": "Council Bluffs",
+    "state": "Iowa",
+    "pop": 61969,
+    "growth": "6.2%"
+  },
+  {
+    "number": 566,
+    "city": "Taylor",
+    "state": "Michigan",
+    "pop": 61817,
+    "growth": "-6.3%"
+  },
+  {
+    "number": 567,
+    "city": "Utica",
+    "state": "New York",
+    "pop": 61808,
+    "growth": "2.2%"
+  },
+  {
+    "number": 568,
+    "city": "Ames",
+    "state": "Iowa",
+    "pop": 61792,
+    "growth": "21.3%"
+  },
+  {
+    "number": 569,
+    "city": "La Habra",
+    "state": "California",
+    "pop": 61653,
+    "growth": "3.6%"
+  },
+  {
+    "number": 570,
+    "city": "Encinitas",
+    "state": "California",
+    "pop": 61588,
+    "growth": "5.8%"
+  },
+  {
+    "number": 571,
+    "city": "Bowling Green",
+    "state": "Kentucky",
+    "pop": 61488,
+    "growth": "24.1%"
+  },
+  {
+    "number": 572,
+    "city": "Burnsville",
+    "state": "Minnesota",
+    "pop": 61434,
+    "growth": "1.9%"
+  },
+  {
+    "number": 573,
+    "city": "Greenville",
+    "state": "South Carolina",
+    "pop": 61397,
+    "growth": "8.2%"
+  },
+  {
+    "number": 574,
+    "city": "West Des Moines",
+    "state": "Iowa",
+    "pop": 61255,
+    "growth": "29.8%"
+  },
+  {
+    "number": 575,
+    "city": "Cedar Park",
+    "state": "Texas",
+    "pop": 61238,
+    "growth": "134.3%"
+  },
+  {
+    "number": 576,
+    "city": "Tulare",
+    "state": "California",
+    "pop": 61170,
+    "growth": "33.3%"
+  },
+  {
+    "number": 577,
+    "city": "Monterey Park",
+    "state": "California",
+    "pop": 61085,
+    "growth": "1.5%"
+  },
+  {
+    "number": 578,
+    "city": "Vineland",
+    "state": "New Jersey",
+    "pop": 61050,
+    "growth": "9.3%"
+  },
+  {
+    "number": 579,
+    "city": "Terre Haute",
+    "state": "Indiana",
+    "pop": 61025,
+    "growth": "2.5%"
+  },
+  {
+    "number": 580,
+    "city": "North Miami",
+    "state": "Florida",
+    "pop": 61007,
+    "growth": "2.0%"
+  },
+  {
+    "number": 581,
+    "city": "Mansfield",
+    "state": "Texas",
+    "pop": 60872,
+    "growth": "114.2%"
+  },
+  {
+    "number": 582,
+    "city": "West Allis",
+    "state": "Wisconsin",
+    "pop": 60697,
+    "growth": "-0.6%"
+  },
+  {
+    "number": 583,
+    "city": "Bristol",
+    "state": "Connecticut",
+    "pop": 60568,
+    "growth": "0.4%"
+  },
+  {
+    "number": 584,
+    "city": "Taylorsville",
+    "state": "Utah",
+    "pop": 60519,
+    "growth": "2.9%"
+  },
+  {
+    "number": 585,
+    "city": "Malden",
+    "state": "Massachusetts",
+    "pop": 60509,
+    "growth": "7.4%"
+  },
+  {
+    "number": 586,
+    "city": "Meriden",
+    "state": "Connecticut",
+    "pop": 60456,
+    "growth": "3.7%"
+  },
+  {
+    "number": 587,
+    "city": "Blaine",
+    "state": "Minnesota",
+    "pop": 60407,
+    "growth": "32.8%"
+  },
+  {
+    "number": 588,
+    "city": "Wellington",
+    "state": "Florida",
+    "pop": 60202,
+    "growth": "55.0%"
+  },
+  {
+    "number": 589,
+    "city": "Cupertino",
+    "state": "California",
+    "pop": 60189,
+    "growth": "14.3%"
+  },
+  {
+    "number": 590,
+    "city": "Springfield",
+    "state": "Oregon",
+    "pop": 60177,
+    "growth": "12.4%"
+  },
+  {
+    "number": 591,
+    "city": "Rogers",
+    "state": "Arkansas",
+    "pop": 60112,
+    "growth": "50.6%"
+  },
+  {
+    "number": 592,
+    "city": "St. Clair Shores",
+    "state": "Michigan",
+    "pop": 60070,
+    "growth": "-4.6%"
+  },
+  {
+    "number": 593,
+    "city": "Gardena",
+    "state": "California",
+    "pop": 59957,
+    "growth": "3.4%"
+  },
+  {
+    "number": 594,
+    "city": "Pontiac",
+    "state": "Michigan",
+    "pop": 59887,
+    "growth": "-11.4%"
+  },
+  {
+    "number": 595,
+    "city": "National City",
+    "state": "California",
+    "pop": 59834,
+    "growth": "10.1%"
+  },
+  {
+    "number": 596,
+    "city": "Grand Junction",
+    "state": "Colorado",
+    "pop": 59778,
+    "growth": "30.9%"
+  },
+  {
+    "number": 597,
+    "city": "Rocklin",
+    "state": "California",
+    "pop": 59738,
+    "growth": "60.3%"
+  },
+  {
+    "number": 598,
+    "city": "Chapel Hill",
+    "state": "North Carolina",
+    "pop": 59635,
+    "growth": "24.1%"
+  },
+  {
+    "number": 599,
+    "city": "Casper",
+    "state": "Wyoming",
+    "pop": 59628,
+    "growth": "19.9%"
+  },
+  {
+    "number": 600,
+    "city": "Broomfield",
+    "state": "Colorado",
+    "pop": 59471,
+    "growth": "50.3%"
+  },
+  {
+    "number": 601,
+    "city": "Petaluma",
+    "state": "California",
+    "pop": 59440,
+    "growth": "8.4%"
+  },
+  {
+    "number": 602,
+    "city": "South Jordan",
+    "state": "Utah",
+    "pop": 59366,
+    "growth": "100.1%"
+  },
+  {
+    "number": 603,
+    "city": "Springfield",
+    "state": "Ohio",
+    "pop": 59357,
+    "growth": "-9.8%"
+  },
+  {
+    "number": 604,
+    "city": "Great Falls",
+    "state": "Montana",
+    "pop": 59351,
+    "growth": "3.9%"
+  },
+  {
+    "number": 605,
+    "city": "Lancaster",
+    "state": "Pennsylvania",
+    "pop": 59325,
+    "growth": "4.5%"
+  },
+  {
+    "number": 606,
+    "city": "North Port",
+    "state": "Florida",
+    "pop": 59212,
+    "growth": "154.6%"
+  },
+  {
+    "number": 607,
+    "city": "Lakewood",
+    "state": "Washington",
+    "pop": 59097,
+    "growth": "1.1%"
+  },
+  {
+    "number": 608,
+    "city": "Marietta",
+    "state": "Georgia",
+    "pop": 59089,
+    "growth": "-3.8%"
+  },
+  {
+    "number": 609,
+    "city": "San Rafael",
+    "state": "California",
+    "pop": 58994,
+    "growth": "5.0%"
+  },
+  {
+    "number": 610,
+    "city": "Royal Oak",
+    "state": "Michigan",
+    "pop": 58946,
+    "growth": "-1.7%"
+  },
+  {
+    "number": 611,
+    "city": "Des Plaines",
+    "state": "Illinois",
+    "pop": 58918,
+    "growth": "3.2%"
+  },
+  {
+    "number": 612,
+    "city": "Huntington Park",
+    "state": "California",
+    "pop": 58879,
+    "growth": "-4.1%"
+  },
+  {
+    "number": 613,
+    "city": "La Mesa",
+    "state": "California",
+    "pop": 58642,
+    "growth": "6.9%"
+  },
+  {
+    "number": 614,
+    "city": "Orland Park",
+    "state": "Illinois",
+    "pop": 58590,
+    "growth": "13.9%"
+  },
+  {
+    "number": 615,
+    "city": "Auburn",
+    "state": "Alabama",
+    "pop": 58582,
+    "growth": "26.4%"
+  },
+  {
+    "number": 616,
+    "city": "Lakeville",
+    "state": "Minnesota",
+    "pop": 58562,
+    "growth": "34.3%"
+  },
+  {
+    "number": 617,
+    "city": "Owensboro",
+    "state": "Kentucky",
+    "pop": 58416,
+    "growth": "7.7%"
+  },
+  {
+    "number": 618,
+    "city": "Moore",
+    "state": "Oklahoma",
+    "pop": 58414,
+    "growth": "41.5%"
+  },
+  {
+    "number": 619,
+    "city": "Jupiter",
+    "state": "Florida",
+    "pop": 58298,
+    "growth": "46.2%"
+  },
+  {
+    "number": 620,
+    "city": "Idaho Falls",
+    "state": "Idaho",
+    "pop": 58292,
+    "growth": "14.0%"
+  },
+  {
+    "number": 621,
+    "city": "Dubuque",
+    "state": "Iowa",
+    "pop": 58253,
+    "growth": "0.9%"
+  },
+  {
+    "number": 622,
+    "city": "Bartlett",
+    "state": "Tennessee",
+    "pop": 58226,
+    "growth": "31.7%"
+  },
+  {
+    "number": 623,
+    "city": "Rowlett",
+    "state": "Texas",
+    "pop": 58043,
+    "growth": "28.6%"
+  },
+  {
+    "number": 624,
+    "city": "Novi",
+    "state": "Michigan",
+    "pop": 57960,
+    "growth": "22.0%"
+  },
+  {
+    "number": 625,
+    "city": "White Plains",
+    "state": "New York",
+    "pop": 57866,
+    "growth": "8.5%"
+  },
+  {
+    "number": 626,
+    "city": "Arcadia",
+    "state": "California",
+    "pop": 57639,
+    "growth": "8.3%"
+  },
+  {
+    "number": 627,
+    "city": "Redmond",
+    "state": "Washington",
+    "pop": 57530,
+    "growth": "26.0%"
+  },
+  {
+    "number": 628,
+    "city": "Lake Elsinore",
+    "state": "California",
+    "pop": 57525,
+    "growth": "96.5%"
+  },
+  {
+    "number": 629,
+    "city": "Ocala",
+    "state": "Florida",
+    "pop": 57468,
+    "growth": "20.8%"
+  },
+  {
+    "number": 630,
+    "city": "Tinley Park",
+    "state": "Illinois",
+    "pop": 57282,
+    "growth": "16.3%"
+  },
+  {
+    "number": 631,
+    "city": "Port Orange",
+    "state": "Florida",
+    "pop": 57203,
+    "growth": "22.8%"
+  },
+  {
+    "number": 632,
+    "city": "Medford",
+    "state": "Massachusetts",
+    "pop": 57170,
+    "growth": "2.7%"
+  },
+  {
+    "number": 633,
+    "city": "Oak Lawn",
+    "state": "Illinois",
+    "pop": 57073,
+    "growth": "3.3%"
+  },
+  {
+    "number": 634,
+    "city": "Rocky Mount",
+    "state": "North Carolina",
+    "pop": 56954,
+    "growth": "-3.1%"
+  },
+  {
+    "number": 635,
+    "city": "Kokomo",
+    "state": "Indiana",
+    "pop": 56895,
+    "growth": "21.3%"
+  },
+  {
+    "number": 636,
+    "city": "Coconut Creek",
+    "state": "Florida",
+    "pop": 56792,
+    "growth": "28.4%"
+  },
+  {
+    "number": 637,
+    "city": "Bowie",
+    "state": "Maryland",
+    "pop": 56759,
+    "growth": "8.6%"
+  },
+  {
+    "number": 638,
+    "city": "Berwyn",
+    "state": "Illinois",
+    "pop": 56758,
+    "growth": "5.1%"
+  },
+  {
+    "number": 639,
+    "city": "Midwest City",
+    "state": "Oklahoma",
+    "pop": 56756,
+    "growth": "4.5%"
+  },
+  {
+    "number": 640,
+    "city": "Fountain Valley",
+    "state": "California",
+    "pop": 56707,
+    "growth": "3.0%"
+  },
+  {
+    "number": 641,
+    "city": "Buckeye",
+    "state": "Arizona",
+    "pop": 56683,
+    "growth": "480.9%"
+  },
+  {
+    "number": 642,
+    "city": "Dearborn Heights",
+    "state": "Michigan",
+    "pop": 56620,
+    "growth": "-3.0%"
+  },
+  {
+    "number": 643,
+    "city": "Woodland",
+    "state": "California",
+    "pop": 56590,
+    "growth": "13.8%"
+  },
+  {
+    "number": 644,
+    "city": "Noblesville",
+    "state": "Indiana",
+    "pop": 56540,
+    "growth": "88.1%"
+  },
+  {
+    "number": 645,
+    "city": "Valdosta",
+    "state": "Georgia",
+    "pop": 56481,
+    "growth": "22.3%"
+  },
+  {
+    "number": 646,
+    "city": "Diamond Bar",
+    "state": "California",
+    "pop": 56449,
+    "growth": "0.1%"
+  },
+  {
+    "number": 647,
+    "city": "Manhattan",
+    "state": "Kansas",
+    "pop": 56143,
+    "growth": "22.8%"
+  },
+  {
+    "number": 648,
+    "city": "Santee",
+    "state": "California",
+    "pop": 56105,
+    "growth": "5.7%"
+  },
+  {
+    "number": 649,
+    "city": "Taunton",
+    "state": "Massachusetts",
+    "pop": 56069,
+    "growth": "0.0%"
+  },
+  {
+    "number": 650,
+    "city": "Sanford",
+    "state": "Florida",
+    "pop": 56002,
+    "growth": "42.8%"
+  },
+  {
+    "number": 651,
+    "city": "Kettering",
+    "state": "Ohio",
+    "pop": 55870,
+    "growth": "-3.1%"
+  },
+  {
+    "number": 652,
+    "city": "New Brunswick",
+    "state": "New Jersey",
+    "pop": 55831,
+    "growth": "15.5%"
+  },
+  {
+    "number": 653,
+    "city": "Decatur",
+    "state": "Alabama",
+    "pop": 55816,
+    "growth": "3.1%"
+  },
+  {
+    "number": 654,
+    "city": "Chicopee",
+    "state": "Massachusetts",
+    "pop": 55717,
+    "growth": "1.7%"
+  },
+  {
+    "number": 655,
+    "city": "Anderson",
+    "state": "Indiana",
+    "pop": 55670,
+    "growth": "-6.6%"
+  },
+  {
+    "number": 656,
+    "city": "Margate",
+    "state": "Florida",
+    "pop": 55456,
+    "growth": "2.7%"
+  },
+  {
+    "number": 657,
+    "city": "Weymouth Town",
+    "state": "Massachusetts",
+    "pop": 55419,
+    "growth": ""
+  },
+  {
+    "number": 658,
+    "city": "Hempstead",
+    "state": "New York",
+    "pop": 55361,
+    "growth": "4.0%"
+  },
+  {
+    "number": 659,
+    "city": "Corvallis",
+    "state": "Oregon",
+    "pop": 55298,
+    "growth": "11.8%"
+  },
+  {
+    "number": 660,
+    "city": "Eastvale",
+    "state": "California",
+    "pop": 55191,
+    "growth": ""
+  },
+  {
+    "number": 661,
+    "city": "Porterville",
+    "state": "California",
+    "pop": 55174,
+    "growth": "20.1%"
+  },
+  {
+    "number": 662,
+    "city": "West Haven",
+    "state": "Connecticut",
+    "pop": 55046,
+    "growth": "5.1%"
+  },
+  {
+    "number": 663,
+    "city": "Brentwood",
+    "state": "California",
+    "pop": 55000,
+    "growth": "122.3%"
+  },
+  {
+    "number": 664,
+    "city": "Paramount",
+    "state": "California",
+    "pop": 54980,
+    "growth": "-0.7%"
+  },
+  {
+    "number": 665,
+    "city": "Grand Forks",
+    "state": "North Dakota",
+    "pop": 54932,
+    "growth": "11.5%"
+  },
+  {
+    "number": 666,
+    "city": "Georgetown",
+    "state": "Texas",
+    "pop": 54898,
+    "growth": "91.9%"
+  },
+  {
+    "number": 667,
+    "city": "St. Peters",
+    "state": "Missouri",
+    "pop": 54842,
+    "growth": "6.5%"
+  },
+  {
+    "number": 668,
+    "city": "Shoreline",
+    "state": "Washington",
+    "pop": 54790,
+    "growth": "2.9%"
+  },
+  {
+    "number": 669,
+    "city": "Mount Prospect",
+    "state": "Illinois",
+    "pop": 54771,
+    "growth": "-2.5%"
+  },
+  {
+    "number": 670,
+    "city": "Hanford",
+    "state": "California",
+    "pop": 54686,
+    "growth": "30.3%"
+  },
+  {
+    "number": 671,
+    "city": "Normal",
+    "state": "Illinois",
+    "pop": 54664,
+    "growth": "19.7%"
+  },
+  {
+    "number": 672,
+    "city": "Rosemead",
+    "state": "California",
+    "pop": 54561,
+    "growth": "1.7%"
+  },
+  {
+    "number": 673,
+    "city": "Lehi",
+    "state": "Utah",
+    "pop": 54382,
+    "growth": "176.3%"
+  },
+  {
+    "number": 674,
+    "city": "Pocatello",
+    "state": "Idaho",
+    "pop": 54350,
+    "growth": "5.4%"
+  },
+  {
+    "number": 675,
+    "city": "Highland",
+    "state": "California",
+    "pop": 54291,
+    "growth": "21.0%"
+  },
+  {
+    "number": 676,
+    "city": "Novato",
+    "state": "California",
+    "pop": 54194,
+    "growth": "13.3%"
+  },
+  {
+    "number": 677,
+    "city": "Port Arthur",
+    "state": "Texas",
+    "pop": 54135,
+    "growth": "-6.0%"
+  },
+  {
+    "number": 678,
+    "city": "Carson City",
+    "state": "Nevada",
+    "pop": 54080,
+    "growth": "2.9%"
+  },
+  {
+    "number": 679,
+    "city": "San Marcos",
+    "state": "Texas",
+    "pop": 54076,
+    "growth": "48.5%"
+  },
+  {
+    "number": 680,
+    "city": "Hendersonville",
+    "state": "Tennessee",
+    "pop": 54068,
+    "growth": "31.7%"
+  },
+  {
+    "number": 681,
+    "city": "Elyria",
+    "state": "Ohio",
+    "pop": 53956,
+    "growth": "-3.7%"
+  },
+  {
+    "number": 682,
+    "city": "Revere",
+    "state": "Massachusetts",
+    "pop": 53756,
+    "growth": "13.4%"
+  },
+  {
+    "number": 683,
+    "city": "Pflugerville",
+    "state": "Texas",
+    "pop": 53752,
+    "growth": "123.4%"
+  },
+  {
+    "number": 684,
+    "city": "Greenwood",
+    "state": "Indiana",
+    "pop": 53665,
+    "growth": "46.0%"
+  },
+  {
+    "number": 685,
+    "city": "Bellevue",
+    "state": "Nebraska",
+    "pop": 53663,
+    "growth": "20.5%"
+  },
+  {
+    "number": 686,
+    "city": "Wheaton",
+    "state": "Illinois",
+    "pop": 53648,
+    "growth": "-3.4%"
+  },
+  {
+    "number": 687,
+    "city": "Smyrna",
+    "state": "Georgia",
+    "pop": 53438,
+    "growth": "20.0%"
+  },
+  {
+    "number": 688,
+    "city": "Sarasota",
+    "state": "Florida",
+    "pop": 53326,
+    "growth": "1.4%"
+  },
+  {
+    "number": 689,
+    "city": "Blue Springs",
+    "state": "Missouri",
+    "pop": 53294,
+    "growth": "9.9%"
+  },
+  {
+    "number": 690,
+    "city": "Colton",
+    "state": "California",
+    "pop": 53243,
+    "growth": "10.8%"
+  },
+  {
+    "number": 691,
+    "city": "Euless",
+    "state": "Texas",
+    "pop": 53224,
+    "growth": "15.1%"
+  },
+  {
+    "number": 692,
+    "city": "Castle Rock",
+    "state": "Colorado",
+    "pop": 53063,
+    "growth": "153.5%"
+  },
+  {
+    "number": 693,
+    "city": "Cathedral City",
+    "state": "California",
+    "pop": 52977,
+    "growth": "23.2%"
+  },
+  {
+    "number": 694,
+    "city": "Kingsport",
+    "state": "Tennessee",
+    "pop": 52962,
+    "growth": "16.7%"
+  },
+  {
+    "number": 695,
+    "city": "Lake Havasu City",
+    "state": "Arizona",
+    "pop": 52844,
+    "growth": "24.6%"
+  },
+  {
+    "number": 696,
+    "city": "Pensacola",
+    "state": "Florida",
+    "pop": 52703,
+    "growth": "-6.0%"
+  },
+  {
+    "number": 697,
+    "city": "Hoboken",
+    "state": "New Jersey",
+    "pop": 52575,
+    "growth": "35.8%"
+  },
+  {
+    "number": 698,
+    "city": "Yucaipa",
+    "state": "California",
+    "pop": 52536,
+    "growth": "26.8%"
+  },
+  {
+    "number": 699,
+    "city": "Watsonville",
+    "state": "California",
+    "pop": 52477,
+    "growth": "12.7%"
+  },
+  {
+    "number": 700,
+    "city": "Richland",
+    "state": "Washington",
+    "pop": 52413,
+    "growth": "34.6%"
+  },
+  {
+    "number": 701,
+    "city": "Delano",
+    "state": "California",
+    "pop": 52403,
+    "growth": "31.8%"
+  },
+  {
+    "number": 702,
+    "city": "Hoffman Estates",
+    "state": "Illinois",
+    "pop": 52398,
+    "growth": "5.4%"
+  },
+  {
+    "number": 703,
+    "city": "Florissant",
+    "state": "Missouri",
+    "pop": 52363,
+    "growth": "-2.8%"
+  },
+  {
+    "number": 704,
+    "city": "Placentia",
+    "state": "California",
+    "pop": 52206,
+    "growth": "11.8%"
+  },
+  {
+    "number": 705,
+    "city": "West New York",
+    "state": "New Jersey",
+    "pop": 52122,
+    "growth": "13.3%"
+  },
+  {
+    "number": 706,
+    "city": "Dublin",
+    "state": "California",
+    "pop": 52105,
+    "growth": "70.0%"
+  },
+  {
+    "number": 707,
+    "city": "Oak Park",
+    "state": "Illinois",
+    "pop": 52066,
+    "growth": "-0.8%"
+  },
+  {
+    "number": 708,
+    "city": "Peabody",
+    "state": "Massachusetts",
+    "pop": 52044,
+    "growth": "7.5%"
+  },
+  {
+    "number": 709,
+    "city": "Perth Amboy",
+    "state": "New Jersey",
+    "pop": 51982,
+    "growth": "9.7%"
+  },
+  {
+    "number": 710,
+    "city": "Battle Creek",
+    "state": "Michigan",
+    "pop": 51848,
+    "growth": "-2.8%"
+  },
+  {
+    "number": 711,
+    "city": "Bradenton",
+    "state": "Florida",
+    "pop": 51763,
+    "growth": "3.4%"
+  },
+  {
+    "number": 712,
+    "city": "Gilroy",
+    "state": "California",
+    "pop": 51701,
+    "growth": "23.9%"
+  },
+  {
+    "number": 713,
+    "city": "Milford",
+    "state": "Connecticut",
+    "pop": 51644,
+    "growth": "1.8%"
+  },
+  {
+    "number": 714,
+    "city": "Albany",
+    "state": "Oregon",
+    "pop": 51583,
+    "growth": "25.5%"
+  },
+  {
+    "number": 715,
+    "city": "Ankeny",
+    "state": "Iowa",
+    "pop": 51567,
+    "growth": "86.9%"
+  },
+  {
+    "number": 716,
+    "city": "La Crosse",
+    "state": "Wisconsin",
+    "pop": 51522,
+    "growth": "-0.8%"
+  },
+  {
+    "number": 717,
+    "city": "Burlington",
+    "state": "North Carolina",
+    "pop": 51510,
+    "growth": "12.1%"
+  },
+  {
+    "number": 718,
+    "city": "DeSoto",
+    "state": "Texas",
+    "pop": 51483,
+    "growth": "36.0%"
+  },
+  {
+    "number": 719,
+    "city": "Harrisonburg",
+    "state": "Virginia",
+    "pop": 51395,
+    "growth": "27.1%"
+  },
+  {
+    "number": 720,
+    "city": "Minnetonka",
+    "state": "Minnesota",
+    "pop": 51368,
+    "growth": "0.4%"
+  },
+  {
+    "number": 721,
+    "city": "Elkhart",
+    "state": "Indiana",
+    "pop": 51265,
+    "growth": "-2.5%"
+  },
+  {
+    "number": 722,
+    "city": "Lakewood",
+    "state": "Ohio",
+    "pop": 51143,
+    "growth": "-9.4%"
+  },
+  {
+    "number": 723,
+    "city": "Glendora",
+    "state": "California",
+    "pop": 51074,
+    "growth": "3.1%"
+  },
+  {
+    "number": 724,
+    "city": "Southaven",
+    "state": "Mississippi",
+    "pop": 50997,
+    "growth": "72.8%"
+  },
+  {
+    "number": 725,
+    "city": "Charleston",
+    "state": "West Virginia",
+    "pop": 50821,
+    "growth": "-4.7%"
+  },
+  {
+    "number": 726,
+    "city": "Joplin",
+    "state": "Missouri",
+    "pop": 50789,
+    "growth": "11.2%"
+  },
+  {
+    "number": 727,
+    "city": "Enid",
+    "state": "Oklahoma",
+    "pop": 50725,
+    "growth": "8.1%"
+  },
+  {
+    "number": 728,
+    "city": "Palm Beach Gardens",
+    "state": "Florida",
+    "pop": 50699,
+    "growth": "39.6%"
+  },
+  {
+    "number": 729,
+    "city": "Brookhaven",
+    "state": "Georgia",
+    "pop": 50603,
+    "growth": ""
+  },
+  {
+    "number": 730,
+    "city": "Plainfield",
+    "state": "New Jersey",
+    "pop": 50588,
+    "growth": "5.7%"
+  },
+  {
+    "number": 731,
+    "city": "Grand Island",
+    "state": "Nebraska",
+    "pop": 50550,
+    "growth": "16.0%"
+  },
+  {
+    "number": 732,
+    "city": "Palm Desert",
+    "state": "California",
+    "pop": 50508,
+    "growth": "13.2%"
+  },
+  {
+    "number": 733,
+    "city": "Huntersville",
+    "state": "North Carolina",
+    "pop": 50458,
+    "growth": "92.9%"
+  },
+  {
+    "number": 734,
+    "city": "Tigard",
+    "state": "Oregon",
+    "pop": 50444,
+    "growth": "17.8%"
+  },
+  {
+    "number": 735,
+    "city": "Lenexa",
+    "state": "Kansas",
+    "pop": 50344,
+    "growth": "24.6%"
+  },
+  {
+    "number": 736,
+    "city": "Saginaw",
+    "state": "Michigan",
+    "pop": 50303,
+    "growth": "-18.2%"
+  },
+  {
+    "number": 737,
+    "city": "Kentwood",
+    "state": "Michigan",
+    "pop": 50233,
+    "growth": "10.5%"
+  },
+  {
+    "number": 738,
+    "city": "Doral",
+    "state": "Florida",
+    "pop": 50213,
+    "growth": "137.6%"
+  },
+  {
+    "number": 739,
+    "city": "Apple Valley",
+    "state": "Minnesota",
+    "pop": 50201,
+    "growth": "9.2%"
+  },
+  {
+    "number": 740,
+    "city": "Grapevine",
+    "state": "Texas",
+    "pop": 50195,
+    "growth": "17.6%"
+  },
+  {
+    "number": 741,
+    "city": "Aliso Viejo",
+    "state": "California",
+    "pop": 50175,
+    "growth": "25.4%"
+  },
+  {
+    "number": 742,
+    "city": "Sammamish",
+    "state": "Washington",
+    "pop": 50169,
+    "growth": "44.1%"
+  },
+  {
+    "number": 743,
+    "city": "Casa Grande",
+    "state": "Arizona",
+    "pop": 50111,
+    "growth": "86.0%"
+  },
+  {
+    "number": 744,
+    "city": "Pinellas Park",
+    "state": "Florida",
+    "pop": 49998,
+    "growth": "5.9%"
+  },
+  {
+    "number": 745,
+    "city": "Troy",
+    "state": "New York",
+    "pop": 49974,
+    "growth": "1.5%"
+  },
+  {
+    "number": 746,
+    "city": "West Sacramento",
+    "state": "California",
+    "pop": 49891,
+    "growth": "55.6%"
+  },
+  {
+    "number": 747,
+    "city": "Burien",
+    "state": "Washington",
+    "pop": 49858,
+    "growth": "56.7%"
+  },
+  {
+    "number": 748,
+    "city": "Commerce City",
+    "state": "Colorado",
+    "pop": 49799,
+    "growth": "135.4%"
+  },
+  {
+    "number": 749,
+    "city": "Monroe",
+    "state": "Louisiana",
+    "pop": 49761,
+    "growth": "-6.1%"
+  },
+  {
+    "number": 750,
+    "city": "Cerritos",
+    "state": "California",
+    "pop": 49707,
+    "growth": "-3.6%"
+  },
+  {
+    "number": 751,
+    "city": "Downers Grove",
+    "state": "Illinois",
+    "pop": 49670,
+    "growth": "0.0%"
+  },
+  {
+    "number": 752,
+    "city": "Coral Gables",
+    "state": "Florida",
+    "pop": 49631,
+    "growth": "16.1%"
+  },
+  {
+    "number": 753,
+    "city": "Wilson",
+    "state": "North Carolina",
+    "pop": 49628,
+    "growth": "10.1%"
+  },
+  {
+    "number": 754,
+    "city": "Niagara Falls",
+    "state": "New York",
+    "pop": 49468,
+    "growth": "-10.8%"
+  },
+  {
+    "number": 755,
+    "city": "Poway",
+    "state": "California",
+    "pop": 49417,
+    "growth": "2.4%"
+  },
+  {
+    "number": 756,
+    "city": "Edina",
+    "state": "Minnesota",
+    "pop": 49376,
+    "growth": "4.1%"
+  },
+  {
+    "number": 757,
+    "city": "Cuyahoga Falls",
+    "state": "Ohio",
+    "pop": 49267,
+    "growth": "-0.2%"
+  },
+  {
+    "number": 758,
+    "city": "Rancho Santa Margarita",
+    "state": "California",
+    "pop": 49228,
+    "growth": "4.6%"
+  },
+  {
+    "number": 759,
+    "city": "Harrisburg",
+    "state": "Pennsylvania",
+    "pop": 49188,
+    "growth": "0.6%"
+  },
+  {
+    "number": 760,
+    "city": "Huntington",
+    "state": "West Virginia",
+    "pop": 49177,
+    "growth": "-5.0%"
+  },
+  {
+    "number": 761,
+    "city": "La Mirada",
+    "state": "California",
+    "pop": 49133,
+    "growth": "4.6%"
+  },
+  {
+    "number": 762,
+    "city": "Cypress",
+    "state": "California",
+    "pop": 49087,
+    "growth": "5.3%"
+  },
+  {
+    "number": 763,
+    "city": "Caldwell",
+    "state": "Idaho",
+    "pop": 48957,
+    "growth": "77.1%"
+  },
+  {
+    "number": 764,
+    "city": "Logan",
+    "state": "Utah",
+    "pop": 48913,
+    "growth": "14.5%"
+  },
+  {
+    "number": 765,
+    "city": "Galveston",
+    "state": "Texas",
+    "pop": 48733,
+    "growth": "-15.2%"
+  },
+  {
+    "number": 766,
+    "city": "Sheboygan",
+    "state": "Wisconsin",
+    "pop": 48725,
+    "growth": "-3.9%"
+  },
+  {
+    "number": 767,
+    "city": "Middletown",
+    "state": "Ohio",
+    "pop": 48630,
+    "growth": "-5.7%"
+  },
+  {
+    "number": 768,
+    "city": "Murray",
+    "state": "Utah",
+    "pop": 48612,
+    "growth": "6.6%"
+  },
+  {
+    "number": 769,
+    "city": "Roswell",
+    "state": "New Mexico",
+    "pop": 48611,
+    "growth": "7.5%"
+  },
+  {
+    "number": 770,
+    "city": "Parker",
+    "state": "Colorado",
+    "pop": 48608,
+    "growth": "96.4%"
+  },
+  {
+    "number": 771,
+    "city": "Bedford",
+    "state": "Texas",
+    "pop": 48592,
+    "growth": "2.9%"
+  },
+  {
+    "number": 772,
+    "city": "East Lansing",
+    "state": "Michigan",
+    "pop": 48554,
+    "growth": "4.2%"
+  },
+  {
+    "number": 773,
+    "city": "Methuen",
+    "state": "Massachusetts",
+    "pop": 48514,
+    "growth": "10.3%"
+  },
+  {
+    "number": 774,
+    "city": "Covina",
+    "state": "California",
+    "pop": 48508,
+    "growth": "3.3%"
+  },
+  {
+    "number": 775,
+    "city": "Alexandria",
+    "state": "Louisiana",
+    "pop": 48426,
+    "growth": "4.1%"
+  },
+  {
+    "number": 776,
+    "city": "Olympia",
+    "state": "Washington",
+    "pop": 48338,
+    "growth": "12.1%"
+  },
+  {
+    "number": 777,
+    "city": "Euclid",
+    "state": "Ohio",
+    "pop": 48139,
+    "growth": "-8.4%"
+  },
+  {
+    "number": 778,
+    "city": "Mishawaka",
+    "state": "Indiana",
+    "pop": 47989,
+    "growth": "2.0%"
+  },
+  {
+    "number": 779,
+    "city": "Salina",
+    "state": "Kansas",
+    "pop": 47846,
+    "growth": "4.5%"
+  },
+  {
+    "number": 780,
+    "city": "Azusa",
+    "state": "California",
+    "pop": 47842,
+    "growth": "6.7%"
+  },
+  {
+    "number": 781,
+    "city": "Newark",
+    "state": "Ohio",
+    "pop": 47777,
+    "growth": "3.1%"
+  },
+  {
+    "number": 782,
+    "city": "Chesterfield",
+    "state": "Missouri",
+    "pop": 47749,
+    "growth": "1.9%"
+  },
+  {
+    "number": 783,
+    "city": "Leesburg",
+    "state": "Virginia",
+    "pop": 47673,
+    "growth": "66.0%"
+  },
+  {
+    "number": 784,
+    "city": "Dunwoody",
+    "state": "Georgia",
+    "pop": 47591,
+    "growth": ""
+  },
+  {
+    "number": 785,
+    "city": "Hattiesburg",
+    "state": "Mississippi",
+    "pop": 47556,
+    "growth": "3.1%"
+  },
+  {
+    "number": 786,
+    "city": "Roseville",
+    "state": "Michigan",
+    "pop": 47555,
+    "growth": "-1.0%"
+  },
+  {
+    "number": 787,
+    "city": "Bonita Springs",
+    "state": "Florida",
+    "pop": 47547,
+    "growth": "43.8%"
+  },
+  {
+    "number": 788,
+    "city": "Portage",
+    "state": "Michigan",
+    "pop": 47523,
+    "growth": "5.7%"
+  },
+  {
+    "number": 789,
+    "city": "St. Louis Park",
+    "state": "Minnesota",
+    "pop": 47411,
+    "growth": "7.3%"
+  },
+  {
+    "number": 790,
+    "city": "Collierville",
+    "state": "Tennessee",
+    "pop": 47333,
+    "growth": "43.4%"
+  },
+  {
+    "number": 791,
+    "city": "Middletown",
+    "state": "Connecticut",
+    "pop": 47333,
+    "growth": "3.6%"
+  },
+  {
+    "number": 792,
+    "city": "Stillwater",
+    "state": "Oklahoma",
+    "pop": 47186,
+    "growth": "20.1%"
+  },
+  {
+    "number": 793,
+    "city": "East Providence",
+    "state": "Rhode Island",
+    "pop": 47149,
+    "growth": "-3.3%"
+  },
+  {
+    "number": 794,
+    "city": "Lawrence",
+    "state": "Indiana",
+    "pop": 47135,
+    "growth": "20.5%"
+  },
+  {
+    "number": 795,
+    "city": "Wauwatosa",
+    "state": "Wisconsin",
+    "pop": 47134,
+    "growth": "0.0%"
+  },
+  {
+    "number": 796,
+    "city": "Mentor",
+    "state": "Ohio",
+    "pop": 46979,
+    "growth": "-6.6%"
+  },
+  {
+    "number": 797,
+    "city": "Ceres",
+    "state": "California",
+    "pop": 46714,
+    "growth": "34.0%"
+  },
+  {
+    "number": 798,
+    "city": "Cedar Hill",
+    "state": "Texas",
+    "pop": 46663,
+    "growth": "42.4%"
+  },
+  {
+    "number": 799,
+    "city": "Mansfield",
+    "state": "Ohio",
+    "pop": 46454,
+    "growth": "-10.1%"
+  },
+  {
+    "number": 800,
+    "city": "Binghamton",
+    "state": "New York",
+    "pop": 46444,
+    "growth": "-1.7%"
+  },
+  {
+    "number": 801,
+    "city": "Coeur d'Alene",
+    "state": "Idaho",
+    "pop": 46402,
+    "growth": "32.8%"
+  },
+  {
+    "number": 802,
+    "city": "San Luis Obispo",
+    "state": "California",
+    "pop": 46377,
+    "growth": "4.4%"
+  },
+  {
+    "number": 803,
+    "city": "Minot",
+    "state": "North Dakota",
+    "pop": 46321,
+    "growth": "26.6%"
+  },
+  {
+    "number": 804,
+    "city": "Palm Springs",
+    "state": "California",
+    "pop": 46281,
+    "growth": "7.7%"
+  },
+  {
+    "number": 805,
+    "city": "Pine Bluff",
+    "state": "Arkansas",
+    "pop": 46094,
+    "growth": "-16.2%"
+  },
+  {
+    "number": 806,
+    "city": "Texas City",
+    "state": "Texas",
+    "pop": 46081,
+    "growth": "10.3%"
+  },
+  {
+    "number": 807,
+    "city": "Summerville",
+    "state": "South Carolina",
+    "pop": 46074,
+    "growth": "62.9%"
+  },
+  {
+    "number": 808,
+    "city": "Twin Falls",
+    "state": "Idaho",
+    "pop": 45981,
+    "growth": "31.5%"
+  },
+  {
+    "number": 809,
+    "city": "Jeffersonville",
+    "state": "Indiana",
+    "pop": 45929,
+    "growth": "53.3%"
+  },
+  {
+    "number": 810,
+    "city": "San Jacinto",
+    "state": "California",
+    "pop": 45851,
+    "growth": "91.8%"
+  },
+  {
+    "number": 811,
+    "city": "Madison",
+    "state": "Alabama",
+    "pop": 45799,
+    "growth": "53.7%"
+  },
+  {
+    "number": 812,
+    "city": "Altoona",
+    "state": "Pennsylvania",
+    "pop": 45796,
+    "growth": "-7.3%"
+  },
+  {
+    "number": 813,
+    "city": "Columbus",
+    "state": "Indiana",
+    "pop": 45775,
+    "growth": "16.4%"
+  },
+  {
+    "number": 814,
+    "city": "Beavercreek",
+    "state": "Ohio",
+    "pop": 45712,
+    "growth": "19.0%"
+  },
+  {
+    "number": 815,
+    "city": "Apopka",
+    "state": "Florida",
+    "pop": 45587,
+    "growth": "63.9%"
+  },
+  {
+    "number": 816,
+    "city": "Elmhurst",
+    "state": "Illinois",
+    "pop": 45556,
+    "growth": "5.7%"
+  },
+  {
+    "number": 817,
+    "city": "Maricopa",
+    "state": "Arizona",
+    "pop": 45508,
+    "growth": "2503.4%"
+  },
+  {
+    "number": 818,
+    "city": "Farmington",
+    "state": "New Mexico",
+    "pop": 45426,
+    "growth": "18.1%"
+  },
+  {
+    "number": 819,
+    "city": "Glenview",
+    "state": "Illinois",
+    "pop": 45417,
+    "growth": "5.2%"
+  },
+  {
+    "number": 820,
+    "city": "Cleveland Heights",
+    "state": "Ohio",
+    "pop": 45394,
+    "growth": "-10.3%"
+  },
+  {
+    "number": 821,
+    "city": "Draper",
+    "state": "Utah",
+    "pop": 45285,
+    "growth": "77.4%"
+  },
+  {
+    "number": 822,
+    "city": "Lincoln",
+    "state": "California",
+    "pop": 45237,
+    "growth": "285.2%"
+  },
+  {
+    "number": 823,
+    "city": "Sierra Vista",
+    "state": "Arizona",
+    "pop": 45129,
+    "growth": "19.3%"
+  },
+  {
+    "number": 824,
+    "city": "Lacey",
+    "state": "Washington",
+    "pop": 44919,
+    "growth": "41.7%"
+  },
+  {
+    "number": 825,
+    "city": "Biloxi",
+    "state": "Mississippi",
+    "pop": 44820,
+    "growth": "-11.5%"
+  },
+  {
+    "number": 826,
+    "city": "Strongsville",
+    "state": "Ohio",
+    "pop": 44730,
+    "growth": "1.9%"
+  },
+  {
+    "number": 827,
+    "city": "Barnstable Town",
+    "state": "Massachusetts",
+    "pop": 44641,
+    "growth": "-7.1%"
+  },
+  {
+    "number": 828,
+    "city": "Wylie",
+    "state": "Texas",
+    "pop": 44575,
+    "growth": "185.2%"
+  },
+  {
+    "number": 829,
+    "city": "Sayreville",
+    "state": "New Jersey",
+    "pop": 44412,
+    "growth": "9.6%"
+  },
+  {
+    "number": 830,
+    "city": "Kannapolis",
+    "state": "North Carolina",
+    "pop": 44359,
+    "growth": "18.6%"
+  },
+  {
+    "number": 831,
+    "city": "Charlottesville",
+    "state": "Virginia",
+    "pop": 44349,
+    "growth": "10.5%"
+  },
+  {
+    "number": 832,
+    "city": "Littleton",
+    "state": "Colorado",
+    "pop": 44275,
+    "growth": "9.4%"
+  },
+  {
+    "number": 833,
+    "city": "Titusville",
+    "state": "Florida",
+    "pop": 44206,
+    "growth": "7.8%"
+  },
+  {
+    "number": 834,
+    "city": "Hackensack",
+    "state": "New Jersey",
+    "pop": 44113,
+    "growth": "2.9%"
+  },
+  {
+    "number": 835,
+    "city": "Newark",
+    "state": "California",
+    "pop": 44096,
+    "growth": "3.3%"
+  },
+  {
+    "number": 836,
+    "city": "Pittsfield",
+    "state": "Massachusetts",
+    "pop": 44057,
+    "growth": "-3.6%"
+  },
+  {
+    "number": 837,
+    "city": "York",
+    "state": "Pennsylvania",
+    "pop": 43935,
+    "growth": "6.4%"
+  },
+  {
+    "number": 838,
+    "city": "Lombard",
+    "state": "Illinois",
+    "pop": 43907,
+    "growth": "2.9%"
+  },
+  {
+    "number": 839,
+    "city": "Attleboro",
+    "state": "Massachusetts",
+    "pop": 43886,
+    "growth": "4.6%"
+  },
+  {
+    "number": 840,
+    "city": "DeKalb",
+    "state": "Illinois",
+    "pop": 43849,
+    "growth": "11.8%"
+  },
+  {
+    "number": 841,
+    "city": "Blacksburg",
+    "state": "Virginia",
+    "pop": 43609,
+    "growth": "9.4%"
+  },
+  {
+    "number": 842,
+    "city": "Dublin",
+    "state": "Ohio",
+    "pop": 43607,
+    "growth": "37.6%"
+  },
+  {
+    "number": 843,
+    "city": "Haltom City",
+    "state": "Texas",
+    "pop": 43580,
+    "growth": "11.4%"
+  },
+  {
+    "number": 844,
+    "city": "Lompoc",
+    "state": "California",
+    "pop": 43509,
+    "growth": "5.5%"
+  },
+  {
+    "number": 845,
+    "city": "El Centro",
+    "state": "California",
+    "pop": 43363,
+    "growth": "13.7%"
+  },
+  {
+    "number": 846,
+    "city": "Danville",
+    "state": "California",
+    "pop": 43341,
+    "growth": "3.7%"
+  },
+  {
+    "number": 847,
+    "city": "Jefferson City",
+    "state": "Missouri",
+    "pop": 43330,
+    "growth": "6.7%"
+  },
+  {
+    "number": 848,
+    "city": "Cutler Bay",
+    "state": "Florida",
+    "pop": 43328,
+    "growth": "42.9%"
+  },
+  {
+    "number": 849,
+    "city": "Oakland Park",
+    "state": "Florida",
+    "pop": 43286,
+    "growth": "2.7%"
+  },
+  {
+    "number": 850,
+    "city": "North Miami Beach",
+    "state": "Florida",
+    "pop": 43250,
+    "growth": "3.6%"
+  },
+  {
+    "number": 851,
+    "city": "Freeport",
+    "state": "New York",
+    "pop": 43167,
+    "growth": "-1.4%"
+  },
+  {
+    "number": 852,
+    "city": "Moline",
+    "state": "Illinois",
+    "pop": 43116,
+    "growth": "-1.9%"
+  },
+  {
+    "number": 853,
+    "city": "Coachella",
+    "state": "California",
+    "pop": 43092,
+    "growth": "88.4%"
+  },
+  {
+    "number": 854,
+    "city": "Fort Pierce",
+    "state": "Florida",
+    "pop": 43074,
+    "growth": "6.9%"
+  },
+  {
+    "number": 855,
+    "city": "Smyrna",
+    "state": "Tennessee",
+    "pop": 43060,
+    "growth": "54.9%"
+  },
+  {
+    "number": 856,
+    "city": "Bountiful",
+    "state": "Utah",
+    "pop": 43023,
+    "growth": "3.9%"
+  },
+  {
+    "number": 857,
+    "city": "Fond du Lac",
+    "state": "Wisconsin",
+    "pop": 42970,
+    "growth": "1.7%"
+  },
+  {
+    "number": 858,
+    "city": "Everett",
+    "state": "Massachusetts",
+    "pop": 42935,
+    "growth": "12.1%"
+  },
+  {
+    "number": 859,
+    "city": "Danville",
+    "state": "Virginia",
+    "pop": 42907,
+    "growth": "-11.0%"
+  },
+  {
+    "number": 860,
+    "city": "Keller",
+    "state": "Texas",
+    "pop": 42907,
+    "growth": "53.3%"
+  },
+  {
+    "number": 861,
+    "city": "Belleville",
+    "state": "Illinois",
+    "pop": 42895,
+    "growth": "1.2%"
+  },
+  {
+    "number": 862,
+    "city": "Bell Gardens",
+    "state": "California",
+    "pop": 42889,
+    "growth": "-2.7%"
+  },
+  {
+    "number": 863,
+    "city": "Cleveland",
+    "state": "Tennessee",
+    "pop": 42774,
+    "growth": "14.1%"
+  },
+  {
+    "number": 864,
+    "city": "North Lauderdale",
+    "state": "Florida",
+    "pop": 42757,
+    "growth": "10.8%"
+  },
+  {
+    "number": 865,
+    "city": "Fairfield",
+    "state": "Ohio",
+    "pop": 42635,
+    "growth": "1.2%"
+  },
+  {
+    "number": 866,
+    "city": "Salem",
+    "state": "Massachusetts",
+    "pop": 42544,
+    "growth": "5.1%"
+  },
+  {
+    "number": 867,
+    "city": "Rancho Palos Verdes",
+    "state": "California",
+    "pop": 42448,
+    "growth": "2.9%"
+  },
+  {
+    "number": 868,
+    "city": "San Bruno",
+    "state": "California",
+    "pop": 42443,
+    "growth": "5.6%"
+  },
+  {
+    "number": 869,
+    "city": "Concord",
+    "state": "New Hampshire",
+    "pop": 42419,
+    "growth": "4.1%"
+  },
+  {
+    "number": 870,
+    "city": "Burlington",
+    "state": "Vermont",
+    "pop": 42284,
+    "growth": "6.1%"
+  },
+  {
+    "number": 871,
+    "city": "Apex",
+    "state": "North Carolina",
+    "pop": 42214,
+    "growth": "98.8%"
+  },
+  {
+    "number": 872,
+    "city": "Midland",
+    "state": "Michigan",
+    "pop": 42181,
+    "growth": "0.9%"
+  },
+  {
+    "number": 873,
+    "city": "Altamonte Springs",
+    "state": "Florida",
+    "pop": 42150,
+    "growth": "2.0%"
+  },
+  {
+    "number": 874,
+    "city": "Hutchinson",
+    "state": "Kansas",
+    "pop": 41889,
+    "growth": "0.1%"
+  },
+  {
+    "number": 875,
+    "city": "Buffalo Grove",
+    "state": "Illinois",
+    "pop": 41778,
+    "growth": "-3.4%"
+  },
+  {
+    "number": 876,
+    "city": "Urbandale",
+    "state": "Iowa",
+    "pop": 41776,
+    "growth": "41.5%"
+  },
+  {
+    "number": 877,
+    "city": "State College",
+    "state": "Pennsylvania",
+    "pop": 41757,
+    "growth": "8.7%"
+  },
+  {
+    "number": 878,
+    "city": "Urbana",
+    "state": "Illinois",
+    "pop": 41752,
+    "growth": "10.3%"
+  },
+  {
+    "number": 879,
+    "city": "Plainfield",
+    "state": "Illinois",
+    "pop": 41734,
+    "growth": "203.6%"
+  },
+  {
+    "number": 880,
+    "city": "Manassas",
+    "state": "Virginia",
+    "pop": 41705,
+    "growth": "19.5%"
+  },
+  {
+    "number": 881,
+    "city": "Bartlett",
+    "state": "Illinois",
+    "pop": 41679,
+    "growth": "13.1%"
+  },
+  {
+    "number": 882,
+    "city": "Kearny",
+    "state": "New Jersey",
+    "pop": 41664,
+    "growth": "2.8%"
+  },
+  {
+    "number": 883,
+    "city": "Oro Valley",
+    "state": "Arizona",
+    "pop": 41627,
+    "growth": "27.0%"
+  },
+  {
+    "number": 884,
+    "city": "Findlay",
+    "state": "Ohio",
+    "pop": 41512,
+    "growth": "5.8%"
+  },
+  {
+    "number": 885,
+    "city": "Rohnert Park",
+    "state": "California",
+    "pop": 41398,
+    "growth": "0.0%"
+  },
+  {
+    "number": 887,
+    "city": "Westfield",
+    "state": "Massachusetts",
+    "pop": 41301,
+    "growth": "3.0%"
+  },
+  {
+    "number": 886,
+    "city": "Linden",
+    "state": "New Jersey",
+    "pop": 41301,
+    "growth": "4.7%"
+  },
+  {
+    "number": 888,
+    "city": "Sumter",
+    "state": "South Carolina",
+    "pop": 41190,
+    "growth": "1.3%"
+  },
+  {
+    "number": 889,
+    "city": "Wilkes-Barre",
+    "state": "Pennsylvania",
+    "pop": 41108,
+    "growth": "-4.3%"
+  },
+  {
+    "number": 890,
+    "city": "Woonsocket",
+    "state": "Rhode Island",
+    "pop": 41026,
+    "growth": "-5.2%"
+  },
+  {
+    "number": 891,
+    "city": "Leominster",
+    "state": "Massachusetts",
+    "pop": 41002,
+    "growth": "-1.1%"
+  },
+  {
+    "number": 892,
+    "city": "Shelton",
+    "state": "Connecticut",
+    "pop": 40999,
+    "growth": "7.3%"
+  },
+  {
+    "number": 893,
+    "city": "Brea",
+    "state": "California",
+    "pop": 40963,
+    "growth": "15.2%"
+  },
+  {
+    "number": 894,
+    "city": "Covington",
+    "state": "Kentucky",
+    "pop": 40956,
+    "growth": "-4.7%"
+  },
+  {
+    "number": 895,
+    "city": "Rockwall",
+    "state": "Texas",
+    "pop": 40922,
+    "growth": "117.2%"
+  },
+  {
+    "number": 896,
+    "city": "Meridian",
+    "state": "Mississippi",
+    "pop": 40921,
+    "growth": "-0.9%"
+  },
+  {
+    "number": 897,
+    "city": "Riverton",
+    "state": "Utah",
+    "pop": 40921,
+    "growth": "61.6%"
+  },
+  {
+    "number": 898,
+    "city": "St. Cloud",
+    "state": "Florida",
+    "pop": 40918,
+    "growth": "86.2%"
+  },
+  {
+    "number": 899,
+    "city": "Quincy",
+    "state": "Illinois",
+    "pop": 40915,
+    "growth": "0.5%"
+  },
+  {
+    "number": 900,
+    "city": "Morgan Hill",
+    "state": "California",
+    "pop": 40836,
+    "growth": "19.5%"
+  },
+  {
+    "number": 901,
+    "city": "Warren",
+    "state": "Ohio",
+    "pop": 40768,
+    "growth": "-15.2%"
+  },
+  {
+    "number": 902,
+    "city": "Edmonds",
+    "state": "Washington",
+    "pop": 40727,
+    "growth": "2.9%"
+  },
+  {
+    "number": 903,
+    "city": "Burleson",
+    "state": "Texas",
+    "pop": 40714,
+    "growth": "85.3%"
+  },
+  {
+    "number": 904,
+    "city": "Beverly",
+    "state": "Massachusetts",
+    "pop": 40664,
+    "growth": "2.0%"
+  },
+  {
+    "number": 905,
+    "city": "Mankato",
+    "state": "Minnesota",
+    "pop": 40641,
+    "growth": "24.7%"
+  },
+  {
+    "number": 906,
+    "city": "Hagerstown",
+    "state": "Maryland",
+    "pop": 40612,
+    "growth": "10.4%"
+  },
+  {
+    "number": 907,
+    "city": "Prescott",
+    "state": "Arizona",
+    "pop": 40590,
+    "growth": "18.1%"
+  },
+  {
+    "number": 908,
+    "city": "Campbell",
+    "state": "California",
+    "pop": 40584,
+    "growth": "4.2%"
+  },
+  {
+    "number": 909,
+    "city": "Cedar Falls",
+    "state": "Iowa",
+    "pop": 40566,
+    "growth": "12.0%"
+  },
+  {
+    "number": 910,
+    "city": "Beaumont",
+    "state": "California",
+    "pop": 40481,
+    "growth": "254.5%"
+  },
+  {
+    "number": 911,
+    "city": "La Puente",
+    "state": "California",
+    "pop": 40435,
+    "growth": "-1.6%"
+  },
+  {
+    "number": 912,
+    "city": "Crystal Lake",
+    "state": "Illinois",
+    "pop": 40388,
+    "growth": "5.3%"
+  },
+  {
+    "number": 913,
+    "city": "Fitchburg",
+    "state": "Massachusetts",
+    "pop": 40383,
+    "growth": "3.5%"
+  },
+  {
+    "number": 914,
+    "city": "Carol Stream",
+    "state": "Illinois",
+    "pop": 40379,
+    "growth": "-0.2%"
+  },
+  {
+    "number": 915,
+    "city": "Hickory",
+    "state": "North Carolina",
+    "pop": 40361,
+    "growth": "7.0%"
+  },
+  {
+    "number": 916,
+    "city": "Streamwood",
+    "state": "Illinois",
+    "pop": 40351,
+    "growth": "10.1%"
+  },
+  {
+    "number": 917,
+    "city": "Norwich",
+    "state": "Connecticut",
+    "pop": 40347,
+    "growth": "11.6%"
+  },
+  {
+    "number": 918,
+    "city": "Coppell",
+    "state": "Texas",
+    "pop": 40342,
+    "growth": "10.3%"
+  },
+  {
+    "number": 919,
+    "city": "San Gabriel",
+    "state": "California",
+    "pop": 40275,
+    "growth": "0.9%"
+  },
+  {
+    "number": 920,
+    "city": "Holyoke",
+    "state": "Massachusetts",
+    "pop": 40249,
+    "growth": "0.9%"
+  },
+  {
+    "number": 921,
+    "city": "Bentonville",
+    "state": "Arkansas",
+    "pop": 40167,
+    "growth": "97.7%"
+  },
+  {
+    "number": 922,
+    "city": "Florence",
+    "state": "Alabama",
+    "pop": 40059,
+    "growth": "10.2%"
+  },
+  {
+    "number": 923,
+    "city": "Peachtree Corners",
+    "state": "Georgia",
+    "pop": 40059,
+    "growth": ""
+  },
+  {
+    "number": 924,
+    "city": "Brentwood",
+    "state": "Tennessee",
+    "pop": 40021,
+    "growth": "51.9%"
+  },
+  {
+    "number": 925,
+    "city": "Bozeman",
+    "state": "Montana",
+    "pop": 39860,
+    "growth": "41.9%"
+  },
+  {
+    "number": 926,
+    "city": "New Berlin",
+    "state": "Wisconsin",
+    "pop": 39834,
+    "growth": "3.6%"
+  },
+  {
+    "number": 927,
+    "city": "Goose Creek",
+    "state": "South Carolina",
+    "pop": 39823,
+    "growth": "26.1%"
+  },
+  {
+    "number": 928,
+    "city": "Huntsville",
+    "state": "Texas",
+    "pop": 39795,
+    "growth": "13.2%"
+  },
+  {
+    "number": 929,
+    "city": "Prescott Valley",
+    "state": "Arizona",
+    "pop": 39791,
+    "growth": "62.9%"
+  },
+  {
+    "number": 930,
+    "city": "Maplewood",
+    "state": "Minnesota",
+    "pop": 39765,
+    "growth": "12.3%"
+  },
+  {
+    "number": 931,
+    "city": "Romeoville",
+    "state": "Illinois",
+    "pop": 39650,
+    "growth": "79.5%"
+  },
+  {
+    "number": 932,
+    "city": "Duncanville",
+    "state": "Texas",
+    "pop": 39605,
+    "growth": "9.7%"
+  },
+  {
+    "number": 933,
+    "city": "Atlantic City",
+    "state": "New Jersey",
+    "pop": 39551,
+    "growth": "-2.2%"
+  },
+  {
+    "number": 934,
+    "city": "Clovis",
+    "state": "New Mexico",
+    "pop": 39508,
+    "growth": "21.3%"
+  },
+  {
+    "number": 935,
+    "city": "The Colony",
+    "state": "Texas",
+    "pop": 39458,
+    "growth": "45.7%"
+  },
+  {
+    "number": 936,
+    "city": "Culver City",
+    "state": "California",
+    "pop": 39428,
+    "growth": "1.3%"
+  },
+  {
+    "number": 937,
+    "city": "Marlborough",
+    "state": "Massachusetts",
+    "pop": 39414,
+    "growth": "7.6%"
+  },
+  {
+    "number": 938,
+    "city": "Hilton Head Island",
+    "state": "South Carolina",
+    "pop": 39412,
+    "growth": "16.0%"
+  },
+  {
+    "number": 939,
+    "city": "Moorhead",
+    "state": "Minnesota",
+    "pop": 39398,
+    "growth": "21.3%"
+  },
+  {
+    "number": 940,
+    "city": "Calexico",
+    "state": "California",
+    "pop": 39389,
+    "growth": "44.0%"
+  },
+  {
+    "number": 941,
+    "city": "Bullhead City",
+    "state": "Arizona",
+    "pop": 39383,
+    "growth": "15.9%"
+  },
+  {
+    "number": 942,
+    "city": "Germantown",
+    "state": "Tennessee",
+    "pop": 39375,
+    "growth": "4.1%"
+  },
+  {
+    "number": 943,
+    "city": "La Quinta",
+    "state": "California",
+    "pop": 39331,
+    "growth": "59.9%"
+  },
+  {
+    "number": 944,
+    "city": "Lancaster",
+    "state": "Ohio",
+    "pop": 39325,
+    "growth": "10.7%"
+  },
+  {
+    "number": 945,
+    "city": "Wausau",
+    "state": "Wisconsin",
+    "pop": 39309,
+    "growth": "1.7%"
+  },
+  {
+    "number": 946,
+    "city": "Sherman",
+    "state": "Texas",
+    "pop": 39296,
+    "growth": "11.6%"
+  },
+  {
+    "number": 947,
+    "city": "Ocoee",
+    "state": "Florida",
+    "pop": 39172,
+    "growth": "57.9%"
+  },
+  {
+    "number": 948,
+    "city": "Shakopee",
+    "state": "Minnesota",
+    "pop": 39167,
+    "growth": "85.7%"
+  },
+  {
+    "number": 949,
+    "city": "Woburn",
+    "state": "Massachusetts",
+    "pop": 39083,
+    "growth": "4.4%"
+  },
+  {
+    "number": 950,
+    "city": "Bremerton",
+    "state": "Washington",
+    "pop": 39056,
+    "growth": "4.9%"
+  },
+  {
+    "number": 951,
+    "city": "Rock Island",
+    "state": "Illinois",
+    "pop": 38877,
+    "growth": "-1.9%"
+  },
+  {
+    "number": 952,
+    "city": "Muskogee",
+    "state": "Oklahoma",
+    "pop": 38863,
+    "growth": "-0.7%"
+  },
+  {
+    "number": 953,
+    "city": "Cape Girardeau",
+    "state": "Missouri",
+    "pop": 38816,
+    "growth": "9.4%"
+  },
+  {
+    "number": 954,
+    "city": "Annapolis",
+    "state": "Maryland",
+    "pop": 38722,
+    "growth": "7.6%"
+  },
+  {
+    "number": 955,
+    "city": "Greenacres",
+    "state": "Florida",
+    "pop": 38696,
+    "growth": "35.5%"
+  },
+  {
+    "number": 956,
+    "city": "Ormond Beach",
+    "state": "Florida",
+    "pop": 38661,
+    "growth": "5.8%"
+  },
+  {
+    "number": 957,
+    "city": "Hallandale Beach",
+    "state": "Florida",
+    "pop": 38632,
+    "growth": "12.4%"
+  },
+  {
+    "number": 958,
+    "city": "Stanton",
+    "state": "California",
+    "pop": 38623,
+    "growth": "2.8%"
+  },
+  {
+    "number": 959,
+    "city": "Puyallup",
+    "state": "Washington",
+    "pop": 38609,
+    "growth": "11.8%"
+  },
+  {
+    "number": 960,
+    "city": "Pacifica",
+    "state": "California",
+    "pop": 38606,
+    "growth": "0.5%"
+  },
+  {
+    "number": 961,
+    "city": "Hanover Park",
+    "state": "Illinois",
+    "pop": 38510,
+    "growth": "0.6%"
+  },
+  {
+    "number": 962,
+    "city": "Hurst",
+    "state": "Texas",
+    "pop": 38448,
+    "growth": "5.8%"
+  },
+  {
+    "number": 963,
+    "city": "Lima",
+    "state": "Ohio",
+    "pop": 38355,
+    "growth": "-8.1%"
+  },
+  {
+    "number": 964,
+    "city": "Marana",
+    "state": "Arizona",
+    "pop": 38290,
+    "growth": "166.2%"
+  },
+  {
+    "number": 965,
+    "city": "Carpentersville",
+    "state": "Illinois",
+    "pop": 38241,
+    "growth": "22.8%"
+  },
+  {
+    "number": 966,
+    "city": "Oakley",
+    "state": "California",
+    "pop": 38194,
+    "growth": "47.7%"
+  },
+  {
+    "number": 967,
+    "city": "Huber Heights",
+    "state": "Ohio",
+    "pop": 38142,
+    "growth": "-0.2%"
+  },
+  {
+    "number": 968,
+    "city": "Lancaster",
+    "state": "Texas",
+    "pop": 38071,
+    "growth": "46.4%"
+  },
+  {
+    "number": 969,
+    "city": "Montclair",
+    "state": "California",
+    "pop": 38027,
+    "growth": "12.1%"
+  },
+  {
+    "number": 970,
+    "city": "Wheeling",
+    "state": "Illinois",
+    "pop": 38015,
+    "growth": "4.8%"
+  },
+  {
+    "number": 971,
+    "city": "Brookfield",
+    "state": "Wisconsin",
+    "pop": 37999,
+    "growth": "-1.9%"
+  },
+  {
+    "number": 972,
+    "city": "Park Ridge",
+    "state": "Illinois",
+    "pop": 37839,
+    "growth": "0.1%"
+  },
+  {
+    "number": 973,
+    "city": "Florence",
+    "state": "South Carolina",
+    "pop": 37792,
+    "growth": "19.8%"
+  },
+  {
+    "number": 974,
+    "city": "Roy",
+    "state": "Utah",
+    "pop": 37733,
+    "growth": "13.3%"
+  },
+  {
+    "number": 975,
+    "city": "Winter Garden",
+    "state": "Florida",
+    "pop": 37711,
+    "growth": "142.5%"
+  },
+  {
+    "number": 976,
+    "city": "Chelsea",
+    "state": "Massachusetts",
+    "pop": 37670,
+    "growth": "7.3%"
+  },
+  {
+    "number": 977,
+    "city": "Valley Stream",
+    "state": "New York",
+    "pop": 37659,
+    "growth": "3.6%"
+  },
+  {
+    "number": 978,
+    "city": "Spartanburg",
+    "state": "South Carolina",
+    "pop": 37647,
+    "growth": "-6.2%"
+  },
+  {
+    "number": 979,
+    "city": "Lake Oswego",
+    "state": "Oregon",
+    "pop": 37610,
+    "growth": "5.3%"
+  },
+  {
+    "number": 980,
+    "city": "Friendswood",
+    "state": "Texas",
+    "pop": 37587,
+    "growth": "28.6%"
+  },
+  {
+    "number": 981,
+    "city": "Westerville",
+    "state": "Ohio",
+    "pop": 37530,
+    "growth": "5.7%"
+  },
+  {
+    "number": 982,
+    "city": "Northglenn",
+    "state": "Colorado",
+    "pop": 37499,
+    "growth": "15.5%"
+  },
+  {
+    "number": 983,
+    "city": "Phenix City",
+    "state": "Alabama",
+    "pop": 37498,
+    "growth": "31.9%"
+  },
+  {
+    "number": 984,
+    "city": "Grove City",
+    "state": "Ohio",
+    "pop": 37490,
+    "growth": "35.6%"
+  },
+  {
+    "number": 985,
+    "city": "Texarkana",
+    "state": "Texas",
+    "pop": 37442,
+    "growth": "7.4%"
+  },
+  {
+    "number": 986,
+    "city": "Addison",
+    "state": "Illinois",
+    "pop": 37385,
+    "growth": "2.6%"
+  },
+  {
+    "number": 987,
+    "city": "Dover",
+    "state": "Delaware",
+    "pop": 37366,
+    "growth": "16.0%"
+  },
+  {
+    "number": 988,
+    "city": "Lincoln Park",
+    "state": "Michigan",
+    "pop": 37313,
+    "growth": "-6.7%"
+  },
+  {
+    "number": 989,
+    "city": "Calumet City",
+    "state": "Illinois",
+    "pop": 37240,
+    "growth": "-4.5%"
+  },
+  {
+    "number": 990,
+    "city": "Muskegon",
+    "state": "Michigan",
+    "pop": 37213,
+    "growth": "-7.1%"
+  },
+  {
+    "number": 991,
+    "city": "Aventura",
+    "state": "Florida",
+    "pop": 37199,
+    "growth": "47.2%"
+  },
+  {
+    "number": 992,
+    "city": "Martinez",
+    "state": "California",
+    "pop": 37165,
+    "growth": "3.4%"
+  },
+  {
+    "number": 993,
+    "city": "Greenfield",
+    "state": "Wisconsin",
+    "pop": 37159,
+    "growth": "4.8%"
+  },
+  {
+    "number": 994,
+    "city": "Apache Junction",
+    "state": "Arizona",
+    "pop": 37130,
+    "growth": "15.7%"
+  },
+  {
+    "number": 995,
+    "city": "Monrovia",
+    "state": "California",
+    "pop": 37101,
+    "growth": "0.2%"
+  },
+  {
+    "number": 996,
+    "city": "Weslaco",
+    "state": "Texas",
+    "pop": 37093,
+    "growth": "28.8%"
+  },
+  {
+    "number": 997,
+    "city": "Keizer",
+    "state": "Oregon",
+    "pop": 37064,
+    "growth": "14.4%"
+  },
+  {
+    "number": 998,
+    "city": "Spanish Fork",
+    "state": "Utah",
+    "pop": 36956,
+    "growth": "78.1%"
+  },
+  {
+    "number": 999,
+    "city": "Beloit",
+    "state": "Wisconsin",
+    "pop": 36888,
+    "growth": "2.9%"
+  },
+  {
+    "number": 1000,
+    "city": "Panama City",
+    "state": "Florida",
+    "pop": 36877,
+    "growth": "0.1%"
+  }
+]

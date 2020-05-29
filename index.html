@@ -40,12 +40,12 @@
 							st = cities[i].state;
 						};
 					};
-					console.log(deaths);
+					console.log(pop);
 					document.getElementById("number").innerHTML = deaths;
 					document.getElementById("town").innerHTML = ghosttown;
 					document.getElementById("st").innerHTML = st;
-					document.getElementById("rank").innerHTML = rank;
-					document.getElementById("population").innerHTML = pop;
+					//document.getElementById("rank").innerHTML = rank;
+					document.getElementById("12345").innerHTML = pop;
 				});
 			});
 		}
@@ -56,8 +56,8 @@
 <body onload="loadCity();">
 		<h1 id="title">Covid Ghost Town</h1>
 		<div id="wrapper">
-			<div id="display">Since January X 2020, <span id="number">[ gathering data ]</span> Americans have died from Covid-19. 
-				It's as though <span id="town">city</span>, <span id="st">st</span>, number <span id="rank">0</span> on the list of American cities, saw all <span id="population">0</span> people who live there disappear.</div>
+			<div id="display"><p>Since the first recorded death in the U.S. on February 6 2020, <span id="number">[ gathering data ]</span> Americans have died from Covid-19. </p>
+				<p>It&rsquo;s as though <span id="town">city</span>, <span id="st">st</span> saw all <span id="12345">0</span> people who live there disappear.</p></div>
 		</div>
 		<div id="footer"><a href="http://www.twitter.com/mattboggie">@mattboggie</a></div>
 </body>

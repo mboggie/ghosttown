@@ -8,7 +8,8 @@ body, html {
 	color:#ffffff;
 	font-family: 'Cormorant', serif;
 	font-weight: 600;
-	background: url("img/bg.jpg") no-repeat center center fixed; 
+	/*background: url("img/tyler.jpg") no-repeat center center fixed; */
+	background-color: #333333;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -16,6 +17,9 @@ body, html {
 }
 a, a:active, a:visited {
 	color:#ffffff;
+}
+p {
+	margin-bottom: .5em;
 }
 @media only screen and (min-width: 601px) {
 	body {
@@ -46,7 +50,7 @@ a, a:active, a:visited {
 }
 #wrapper {
 	position: fixed;
-    top: 40%;
+    top: 30%;
     transform: translateY(-50%);
 }
 #display {
