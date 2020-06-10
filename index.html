@@ -9,7 +9,7 @@
 	<meta property="og:url" content="http://covidghosttown.com" />
 	<meta property="og:title" content="Covid, USA" />
 	<meta property="og:description" content="If COVID-19 had struck all in just one American city, which would have disappeared?" />
-	<meta property="og:image" content="" />
+	<meta property="og:image" content="img/ghosttown-thumb.jpg" />
 
 	<script type="text/javascript">
 
@@ -24,7 +24,7 @@
 			window.fetch('cities2.json')
 			.then(response => response.json())
 			.then(function(data){cities = data;
-				console.log(cities);
+				//console.log(cities);
 				let deaths = 0;
 				window.fetch('https://api.covid19api.com/summary', {headers:{'Content-Type': 'application/json'}})
 				.then(response => response.json())
@@ -43,12 +43,15 @@
 							st = cities[i].state;
 						};
 					};
-					console.log(pop);
-					document.getElementById("number").innerHTML = toCommas(deaths);
-					document.getElementById("town").innerHTML = ghosttown;
-					document.getElementById("st").innerHTML = st;
+					//console.log(pop);
+					text = "<p>Since the first recorded death in the U.S. on February 6 2020, " + toCommas(deaths) + " Americans have died from Covid-19. </p>"
+					text += "<p>It&rsquo;s as though the residents of " + ghosttown + ", " + st + " (population " + toCommas(pop) + ") disappeared."
+					//document.getElementById("number").innerHTML = toCommas(deaths);
+					//document.getElementById("town").innerHTML = ghosttown;
+					//document.getElementById("st").innerHTML = st;
 					//document.getElementById("rank").innerHTML = rank;
-					document.getElementById("12345").innerHTML = toCommas(pop);
+					//document.getElementById("12345").innerHTML = toCommas(pop);
+					document.getElementById("display").innerHTML = text;
 				});
 			});
 		}
@@ -59,8 +62,7 @@
 <body onload="loadCity();">
 		<h1 id="title">Covid Ghost Town</h1>
 		<div id="wrapper">
-			<div id="display"><p>Since the first recorded death in the U.S. on February 6 2020, <span id="number">[ gathering data ]</span> Americans have died from Covid-19. </p>
-				<p>It&rsquo;s as though <span id="town">city</span>, <span id="st">st</span> saw all <span id="12345">0</span> people who live there disappear.</p></div>
+			<div id="display">[gathering data]</div>
 		</div>
 		<div id="footer"><p><a href="http://www.twitter.com/mattboggie">@mattboggie</a></p>Covid data from <a href="https://api.covid19api.com">https://api.covid19api.com</a> | Population data from <a href="http://www.biggestuscities.com/top-1000">http://www.biggestuscities.com/top-1000</a></div>
 </body>

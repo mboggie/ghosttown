@@ -8,8 +8,8 @@ body, html {
 	color:#ffffff;
 	font-family: 'Cormorant', serif;
 	font-weight: 600;
-	/*background: url("img/tyler.jpg") no-repeat center center fixed; */
-	background-color: #333333;
+	background: url("img/ghosttown-bg.jpg") no-repeat center center fixed; */
+	background-color: #00031C;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -59,7 +59,7 @@ p {
 }
 @media only screen and (min-width: 601px) {
 	#wrapper {
-		width:50%;
+		width:60%;
 		left:50%;
 		transform: translateX(-50%);
 	}
@@ -96,4 +96,5 @@ p {
 	font-size: .6em;
 	font-family: Garamond, serif;
 	font-weight: 400;
+	line-height: 1.4em;
 }
