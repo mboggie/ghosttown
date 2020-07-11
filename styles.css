@@ -21,7 +21,7 @@ a, a:active, a:visited {
 p {
 	margin-bottom: .5em;
 }
-@media only screen and (min-width: 601px) {
+@media only screen and (min-width: 851px) {
 	body {
 		font-size: 24px;
 		line-height: 1.4em;
@@ -29,8 +29,14 @@ p {
 }
 @media only screen and (max-width: 600px) {
 	body {
+		font-size: 16px;
+		line-height: 1.2em;
+	}
+}
+@media only screen and (min-width: 601px) and (max-width: 850px) {
+	body {
 		font-size: 18px;
-		line-height: 1.4em;
+		line-height: 1.3em;
 	}
 }
 #title {
@@ -48,6 +54,11 @@ p {
 	line-height: 2em;
 	#border-bottom:0.5px solid #666666;
 }
+@media only screen and (max-width: 600px) {
+	#title {
+		letter-spacing: .2em;
+	}
+}
 #wrapper {
 	position: fixed;
     top: 30%;
@@ -56,35 +67,33 @@ p {
 #display {
 	text-align: center;
 	line-height: 140%;
+	font-size: 1.7em;
 }
-@media only screen and (min-width: 601px) {
+
+
+@media only screen and (min-width: 851px) {
 	#wrapper {
 		width:60%;
 		left:50%;
 		transform: translateX(-50%);
 	}
-	#display {
-		font-size: 1.7em;
-	}
 }
 @media only screen and (max-width: 600px) {
 	#wrapper {
 		width:80%;
-		left:20%;
-		transform: translateX(-10%);
-	}
-	#display {
-		font-size: 1.7em;
+		left:10%;
+		top:20%;
+		transform: translateX(-15%);
+		transform: translateY(0);
 	}
 }
-#refresh {
-	text-align: center;
-	margin: auto;
-	padding:20px;
-}
-#refresh img {
-	width: 80px;
-	height:80px;
+@media only screen and (min-width: 601px) and (max-width: 850px) {
+	#wrapper {
+		width:60%;
+		left:50%;
+		transform: translateX(-50%);
+		top:30%
+	}
 }
 #footer {
 	text-align: center;
@@ -93,8 +102,8 @@ p {
 	left:50%;
 	opacity: 60%;
 	transform: translateX(-50%);
-	font-size: .6em;
-	font-family: Garamond, serif;
+	font-size: .8em;
+	font-family: 'Cormorant', serif;
 	font-weight: 400;
 	line-height: 1.4em;
 }
