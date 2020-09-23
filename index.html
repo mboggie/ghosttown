@@ -30,27 +30,28 @@
 				.then(response => response.json())
 				.then(function(json){
 					c = json["Countries"];
-					c.forEach(function(country){
-						if(country.CountryCode == "US"){
-							deaths = country.TotalDeaths;
-						}
-					});
-					for (i=2; i < cities.length; i++){
-						if ((cities[i].pop < deaths) && rank == 0){
-							rank = cities[i].number;
-							ghosttown = cities[i].city;
-							pop = cities[i].pop;
-							st = cities[i].state;
+					if (c === undefined) {
+						text = "Covid case data is not available at this time. Please try again later.";
+					}
+					else
+					{
+						c.forEach(function(country){
+							if(country.CountryCode == "US"){
+								deaths = country.TotalDeaths;
+							}
+						});
+						for (i=2; i < cities.length; i++){
+							if ((cities[i].pop < deaths) && rank == 0){
+								rank = cities[i].number;
+								ghosttown = cities[i].city;
+								pop = cities[i].pop;
+								st = cities[i].state;
+							};
 						};
-					};
-					//console.log(pop);
-					text = "<p>Since the first recorded death in the U.S. on February 6 2020, " + toCommas(deaths) + " Americans have died from Covid-19. </p>"
-					text += "<p>It&rsquo;s as though the residents of " + ghosttown + ", " + st + " (population " + toCommas(pop) + ") disappeared."
-					//document.getElementById("number").innerHTML = toCommas(deaths);
-					//document.getElementById("town").innerHTML = ghosttown;
-					//document.getElementById("st").innerHTML = st;
-					//document.getElementById("rank").innerHTML = rank;
-					//document.getElementById("12345").innerHTML = toCommas(pop);
+					
+						text = "<p>Since the first recorded death in the U.S. on February 6 2020, " + toCommas(deaths) + " Americans have died from Covid-19. </p>"
+						text += "<p>It&rsquo;s as though the residents of " + ghosttown + ", " + st + " (population " + toCommas(pop) + ") disappeared."
+					}
 					document.getElementById("display").innerHTML = text;
 				});
 			});
