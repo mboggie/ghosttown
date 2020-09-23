@@ -26,7 +26,7 @@
 			.then(function(data){cities = data;
 				//console.log(cities);
 				let deaths = 0;
-				window.fetch('https://api.covid19api.com/summary', {headers:{'Content-Type': 'application/json'}})
+				window.fetch('https://api.covid19api.com/summary', {headers:{'Content-Type': 'application/json','X-Access-Token': '38d28d99-10d4-453f-a85b-1722f03b1969'}})
 				.then(response => response.json())
 				.then(function(json){
 					c = json["Countries"];
